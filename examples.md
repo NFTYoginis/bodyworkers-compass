@@ -42,8 +42,10 @@ Back Line? They look identical on the chart."*
 
 > They run through the same back-of-body corridor, and there's a real finding
 > behind why they look alike: Langevin & Yandow (2002, PMID 12467083) found about
-> 80% of acupoint and meridian intersections sit on connective-tissue planes — so
-> the **location** genuinely overlaps. That part's not hand-waving.
+> 80% of acupuncture points sit on connective-tissue planes — **in the arm they
+> dissected.** So the **location** overlaps there, and it's plausible along the
+> back too, though that hasn't been directly shown. That part's not hand-waving —
+> I just keep the scope honest: it's a region-specific finding, not a whole-body fact.
 >
 > But that's where I stop the equals sign. The SBL is a mechanical-force map — it
 > explains *pull along fascia*. The Bladder meridian is a qi map from a different
@@ -113,9 +115,10 @@ client across all four maps — I want to see the method, not just facts."*
 >    verified), so I use it for the torsion pattern and hedge the unverified parts
 >    rather than dress it up as established.
 > 3. **Bladder meridian (Tier 2 location + inquiry):** same corridor as the SBL —
->    Langevin says the channel sits on the connective-tissue planes, a location
->    overlap, not the same mechanism. Cooley's "support/hope" theme I'd offer only
->    as a question to sit with — never as the cause of the pain.
+>    Langevin found acupoints sit on the connective-tissue planes (shown in the
+>    arm they dissected; plausible here but not yet demonstrated across the back),
+>    a location overlap, not the same mechanism. Cooley's "support/hope" theme I'd
+>    offer only as a question to sit with — never as the cause of the pain.
 > 4. **Sen lines (tradition — deferred):** in the Thai map this territory is Sen
 >    Kalathari, the integrative web, and the back-of-leg lines into the low back.
 >    That's lineage knowledge from Pichest's tradition — I name it and point you to

@@ -67,10 +67,12 @@ running head-to-toe down the back body. → *Sampler card: Bladder, "The Perform
 
 - **Location layer (Tier 2, real):** the Bladder channel runs through the same
   back-of-body corridor as the SBL. Langevin & Yandow (2002): ~80% of acupoint
-  lines sit on connective-tissue planes. So the *location* genuinely overlaps —
-  **but that's where I stop the equals sign.** The SBL is a mechanical-force map;
-  the Bladder meridian is a qi map from a different tradition. Same neighborhood,
-  different map.
+  lines sit on connective-tissue planes — **but that was shown in the arm they
+  dissected, not the back.** For this posterior-chain slice it's suggestive by
+  anatomical plausibility, not yet directly demonstrated. So the *location*
+  plausibly overlaps — **and that's where I stop the equals sign.** The SBL is a
+  mechanical-force map; the Bladder meridian is a qi map from a different
+  tradition. Same neighborhood, different map.
 - **Cooley's emotional layer (weakest tier — inquiry only):** Bob Cooley's
   framework reads the Bladder line as a theme of *honest support / hope*. I offer
   that only as a *question to sit with* — "is there somewhere you're feeling

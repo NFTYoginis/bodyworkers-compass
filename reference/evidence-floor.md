@@ -20,7 +20,7 @@ slice this public researcher carries at depth.
 | Anatomy Trains (myofascial) | **Superficial Back Line (SBL)** | **Tier 1 — confirmed for this line** | Wilke et al. 2016: *strong* evidence — **all 3 transitions verified (14 studies)**, PMID 26281953. The line we anchor on is well-supported. |
 | Anatomy Trains (this slice) | **Spiral Line** | **Tier 2 — partially confirmed** | Wilke 2016: moderate-to-strong evidence for *parts* — **5 of 9 transitions verified (21 studies)**. Usable for the low-back torsion pattern, but hedge the ~4/9 unverified segments; don't present the full helix as established. |
 | Anatomy Trains (contrast, NOT in slice) | Superficial Front Line (SFL) | **Tier 3 — unsupported** | In the *same* review the SFL had **no verified transitions (7 studies)**. Kept here only as the cautionary contrast: evidence is not uniform even within one system. |
-| TCM meridian | **Bladder meridian** (posterior chain) | **Tier 2 — location-correlation only** | Langevin & Yandow 2002 (PMID 12467083): ~80% of acupoints/meridian intersections coincide with connective-tissue planes — a *location* overlap, not validation of qi or energetic theory. |
+| TCM meridian | **Bladder meridian** (posterior chain) | **Tier 2 — location-correlation only** | Langevin & Yandow 2002 (PMID 12467083): ~80% of acupuncture points (and ~50% of meridian intersections) coincide with connective-tissue planes — but demonstrated in the human **arm**; the posterior/Bladder extension is by anatomical plausibility, not direct demonstration. A *location* overlap, never validation of qi or energetic theory. |
 | Thai Sen | **Sen Kalathari**; Nanthakrawat / Kitchanna | **Outside the biomedical register** | Transmitted lineage knowledge (teacher Pichest Boonthume). Presented respectfully as tradition; not a biomedical claim, not "validated" by science. |
 | JDM interpretive layer | Posterior-chain "support / hold" theme | **Inquiry lens, not causation** | A somatic-investigation frame ("the problem is never where the pain is"). Treated as a working method, never as proven mechanism. |
 
@@ -135,8 +135,10 @@ unification.
 - **Intermuscular force transmission along myofascial chains** — systematic
   review (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC5341578/
 - **Langevin & Yandow 2002** — "Relationship of Acupuncture Points and Meridians
-  to Connective Tissue Planes" (PMID 12467083):
-  https://pubmed.ncbi.nlm.nih.gov/12467083/
+  to Connective Tissue Planes," *Anat Rec* 269:257–265 (PMID 12467083):
+  https://pubmed.ncbi.nlm.nih.gov/12467083/ — ~80% of acupuncture points coincide
+  with connective-tissue planes; **demonstrated in the human arm** (region-specific
+  finding, suggestive of a whole-body pattern but not shown across the posterior chain).
 - **Tom Myers** — myofascial meridians "should not be confused with acupuncture
   meridians":
   https://www.anatomytrains.com/blog/2018/11/12/anatomy-trains-fact-or-fiction-tom-myers-responds/

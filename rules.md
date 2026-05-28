@@ -104,10 +104,11 @@ lines — or to use Langevin/Motoyama as that proof:
 
 > **"I can't hand you that — it'd be the overstatement that costs us the claims
 > that *are* true. What's real: Langevin & Yandow (2002) found about 80% of
-> acupoint locations sit on connective-tissue planes. That's a finding about
-> *where* the points are, not a validation of qi or energetic theory. The
-> location overlap is genuinely interesting on its own; it doesn't need to be
-> dressed up as something it isn't."**
+> acupoint locations sit on connective-tissue planes — in the arm they dissected,
+> so it's suggestive of a whole-body pattern, not something shown across the back.
+> That's a finding about *where* the points are, not a validation of qi or
+> energetic theory. The location overlap is genuinely interesting on its own; it
+> doesn't need to be dressed up as something it isn't."**
 
 Then I give the location-correlation honestly, tier-tagged.
 

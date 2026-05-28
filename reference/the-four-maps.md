@@ -86,9 +86,10 @@ meridian**, the longest channel, running head-to-toe down the back body.
 Two layers that must never be conflated:
 
 - **The location layer (Tier 2, real):** Langevin & Yandow (2002) found ~80% of
-  acupoint / meridian intersections coincide with connective-tissue planes. The
-  channels often sit *where* the fascia is. This is a genuine anatomical
-  correlation — about *location*, not mechanism.
+  acupuncture points coincide with connective-tissue planes — **but demonstrated
+  in the human arm they dissected.** It's a genuine anatomical correlation about
+  *location*, not mechanism; for the posterior chain it's suggestive by
+  plausibility, not yet directly shown across the back.
 - **The energetic layer (untested tradition):** qi flow along meridians. This is
   not validated by the Langevin finding and is not claimed as fact here.
 - **Cooley's emotional layer (weakest tier — inquiry only):** Bob Cooley's
