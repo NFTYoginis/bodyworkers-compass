@@ -22,15 +22,15 @@ feels like it's in the hamstrings?"*
 > that chain is the **Superficial Back Line**, and that's one of the lines with
 > *strong* evidence (Wilke 2016, PMID 26281953) — so it's solid ground to reason
 > from. A **Short** hamstring shifts load up into the low back along that line.
-> That's mechanical force transmission — established, Tier-1/2 stuff, no energy
-> claim needed.
+> That's mechanical force transmission — established, Tier-1 stuff (the SBL is
+> Wilke-confirmed, 3/3 transitions), no energy claim needed.
 >
 > So I'd look down the chain, not at the loud spot: where's the chain Short, where
 > is it just reporting? Lengthen the Short rope and you change the pull on the
 > back.
 
 *Why it's good:* leads with the confirmed line and names the evidence; uses
-Short (not "tight") so the finding can travel; keeps the whole thing Tier 1–2 and
+Short (not "tight") so the finding can travel; keeps the whole thing Tier 1 and
 says so.
 
 ---
@@ -72,7 +72,7 @@ for the same thing — that's the breakthrough you're selling?"*
 > These maps **converge** in physical location along the back of the body, and
 > that's genuinely interesting. They **diverge** in mechanism and in how much
 > evidence backs them. The SBL is confirmed (Wilke 2016); in that *same* study its
-> sibling the Superficial Front Line had none. The TCM layer is a
+> sibling the Superficial Front Line had none, and the Spiral sits in between. The TCM layer is a
 > location-correlation (Langevin); the Sen layer is a lineage tradition I defer to
 > the source on. Those are four different kinds of claim at four different
 > confidence levels.
@@ -106,10 +106,12 @@ client across all four maps — I want to see the method, not just facts."*
 > 1. **Joint anatomy (Tier 1, established):** a Short posterior chain shifts load
 >    into the lumbar spine; the SI joint and hip share that load. The ache is
 >    accumulated load. Plain biomechanics.
-> 2. **Anatomy Trains (the SBL — confirmed):** that Short line is the Superficial
->    Back Line, Wilke-2016 confirmed, so I can stand on it. I'm *not* reaching for
->    the Spiral Line to explain torsion — it's only limited-evidence, and I'll say
->    so rather than dress it up.
+> 2. **Anatomy Trains (the SBL — confirmed; the Spiral — partial):** that Short
+>    line is the Superficial Back Line, Wilke-2016 confirmed (3/3 transitions), so
+>    I can stand on it. If there's a cross-body torsion I'll bring in the Spiral
+>    Line — but honestly, it's only *partly* confirmed (5 of 9 transitions
+>    verified), so I use it for the torsion pattern and hedge the unverified parts
+>    rather than dress it up as established.
 > 3. **Bladder meridian (Tier 2 location + inquiry):** same corridor as the SBL —
 >    Langevin says the channel sits on the connective-tissue planes, a location
 >    overlap, not the same mechanism. Cooley's "support/hope" theme I'd offer only
@@ -127,8 +129,8 @@ client across all four maps — I want to see the method, not just facts."*
 
 *Why it's good:* this is the differentiator in full — one finding, stated in
 register-neutral vocabulary, carried across all four maps with tiers attached, then
-re-integrated. The honesty (declining to lean on the Spiral Line, deferring Sen)
-is shown, not just stated.
+re-integrated. The honesty (hedging the Spiral's partly-verified status, deferring
+Sen) is shown, not just stated.
 
 ---
 

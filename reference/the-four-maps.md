@@ -55,7 +55,7 @@ hamstrings, the glutes.
 - **Register:** state it as fact. This is the ground truth the other maps are
   checked against.
 
-## Map 2 — Anatomy Trains (Tier 1–2 for some lines, Tier 3 for others)
+## Map 2 — Anatomy Trains (Tier 1 to Tier 3 — it varies line by line)
 
 Thomas Myers' myofascial meridians: the body as a continuous fascial network
 rather than 600 separate muscles. Force transmits *along* a line, so the place
@@ -63,12 +63,18 @@ that hurts is often not the place the strain originates.
 
 - **Posterior chain line:** the **Superficial Back Line (SBL)** — plantar fascia
   → calves / hamstrings → erector spinae → scalp. **This line is Wilke-2016
-  confirmed** (strong evidence for its myofascial continuity). It is solid ground
-  to reason from.
+  confirmed** (strong evidence — all 3 of 3 transitions verified). It is solid
+  ground to reason from.
+- **The torsion line:** the **Spiral Line** is **partially confirmed** (Tier 2 —
+  5 of 9 transitions verified, 21 studies). Usable for a cross-body torsion
+  pattern, but the ~4/9 unverified segments get hedged — never the full helix as
+  established.
 - **The honest contrast:** the **Superficial Front Line (SFL)** had *no verified
-  transitions* in the same review, and the **Spiral Line** only limited support.
-  *Evidence is not uniform even within Anatomy Trains.* When this tool reaches for
-  an AT line, it names which tier that specific line sits in.
+  transitions* in the same review — the genuinely unsupported line (Tier 3). It is
+  kept only as the cautionary contrast. *Evidence is not uniform even within
+  Anatomy Trains* — SBL confirmed (3/3), Spiral partial (5/9), SFL unsupported (0).
+  When this tool reaches for an AT line, it names which tier that specific line
+  sits in.
 - **Claim type:** mechanical force transmission — testable, and tested with mixed
   results line-by-line.
 

@@ -17,16 +17,18 @@ slice this public researcher carries at depth.
 | Map | Representative structure | Evidence tier | Honest one-line status |
 |---|---|---|---|
 | Joint / skeletal-muscular (Western biomedical) | Lumbar spine, SI joint, hip | **Tier 1 — established** | Standard anatomy and biomechanics; verifiable and uncontested. |
-| Anatomy Trains (myofascial) | **Superficial Back Line (SBL)** | **Tier 1–2 — confirmed for this line** | Wilke et al. 2016 found *strong* evidence for the SBL's myofascial continuity (PMID 26281953). The line we stand on here is supported. |
-| Anatomy Trains (contrast) | Superficial Front Line (SFL) / Spiral Line | **Tier 3 — unsupported / limited** | In the *same* review, the SFL had **no verified transitions**; the Spiral Line had only weak/limited support. Evidence is not uniform even within one system. |
+| Anatomy Trains (myofascial) | **Superficial Back Line (SBL)** | **Tier 1 — confirmed for this line** | Wilke et al. 2016: *strong* evidence — **all 3 transitions verified (14 studies)**, PMID 26281953. The line we anchor on is well-supported. |
+| Anatomy Trains (this slice) | **Spiral Line** | **Tier 2 — partially confirmed** | Wilke 2016: moderate-to-strong evidence for *parts* — **5 of 9 transitions verified (21 studies)**. Usable for the low-back torsion pattern, but hedge the ~4/9 unverified segments; don't present the full helix as established. |
+| Anatomy Trains (contrast, NOT in slice) | Superficial Front Line (SFL) | **Tier 3 — unsupported** | In the *same* review the SFL had **no verified transitions (7 studies)**. Kept here only as the cautionary contrast: evidence is not uniform even within one system. |
 | TCM meridian | **Bladder meridian** (posterior chain) | **Tier 2 — location-correlation only** | Langevin & Yandow 2002 (PMID 12467083): ~80% of acupoints/meridian intersections coincide with connective-tissue planes — a *location* overlap, not validation of qi or energetic theory. |
 | Thai Sen | **Sen Kalathari**; Nanthakrawat / Kitchanna | **Outside the biomedical register** | Transmitted lineage knowledge (teacher Pichest Boonthume). Presented respectfully as tradition; not a biomedical claim, not "validated" by science. |
 | JDM interpretive layer | Posterior-chain "support / hold" theme | **Inquiry lens, not causation** | A somatic-investigation frame ("the problem is never where the pain is"). Treated as a working method, never as proven mechanism. |
 
 **The required contrast, stated plainly:** Within Anatomy Trains alone, the SBL
-is *confirmed* while the SFL is *unsupported*. Naming that out loud is the
-clearest demonstration of register discipline — proof the tool reports evidence
-as it actually falls, not as the framework wishes.
+is *confirmed* (3/3 transitions) while the SFL is *unsupported* (0 transitions) —
+and the Spiral, which this slice uses, sits in between (5/9). Naming that out loud
+is the clearest demonstration of register discipline — proof the tool reports
+evidence as it actually falls, not as the framework wishes.
 
 ---
 
@@ -51,9 +53,9 @@ as it actually falls, not as the framework wishes.
 - **Claim type.** Biomedical and the SBL make *testable* claims. TCM energetic
   theory and Sen make *traditional / experiential* claims. JDM makes a
   *methodological* claim (how to investigate), not a causal one.
-- **Evidence register.** Tier 1 measured fact → Tier 2 location-correlation →
-  Tier 3 unsupported → tradition (outside the testable frame). **A convergence in
-  *location* is never a convergence in *mechanism*.**
+- **Evidence register.** Tier 1 measured fact → Tier 2 location-correlation /
+  partial confirmation → Tier 3 unsupported → tradition (outside the testable
+  frame). **A convergence in *location* is never a convergence in *mechanism*.**
 
 ---
 
@@ -75,9 +77,9 @@ how much we can trust each.
 
 | Tier | Meaning | What I may claim |
 |---|---|---|
-| **Tier 1 — established** | Measured, uncontested biomedical fact. | State it plainly as fact. |
-| **Tier 2 — location-correlation / confirmed-chain** | A real, published anatomical correlation (Langevin's acupoint↔fascia overlap; Wilke's confirmed SBL continuity). | State the correlation, *named as location/structure*, not as mechanism or energetic validation. |
-| **Tier 3 — unsupported / limited** | Tested and *not* supported, or only weakly. (SFL; Spiral Line.) | Name it as unsupported/limited. Never present as established. |
+| **Tier 1 — established / confirmed** | Measured, uncontested biomedical fact, or a fully-verified chain (Wilke's SBL, 3/3 transitions). | State it plainly as well-supported. |
+| **Tier 2 — location-correlation / partially-confirmed** | A real, published anatomical correlation (Langevin's acupoint↔fascia overlap) OR a chain verified in *part* (Wilke's Spiral, 5/9 transitions). | State the correlation / partial support honestly; hedge the unverified parts; never present as fully established or as mechanism validation. |
+| **Tier 3 — unsupported** | Tested and *not* supported (SFL, 0/9 transitions). | Name it as unsupported. Never present as established. |
 | **Tradition (outside the frame)** | Transmitted lineage knowledge (Sen lines). Not tested, not testable in these terms. | Name the line + physical territory; present as respected tradition; defer depth to source. |
 | **Inquiry lens** | A method of investigation (JDM), or an interpretive framework (Cooley's emotional concomitance). | Offer as a *question to explore*, never as causation or proven mechanism. |
 
@@ -88,14 +90,15 @@ how much we can trust each.
 - "The four maps are one system / four names for the same thing."
 - "The Bladder meridian *is* the Superficial Back Line."
 - "Science has validated qi, meridians, or Sen energy lines."
-- "All Anatomy Trains lines are scientifically proven." (The SFL is not.)
+- "All Anatomy Trains lines are scientifically proven." (The SFL is not; the
+  Spiral is only partly.)
 - "Langevin proved acupuncture / energetic theory." (It is a location correlation
   only.)
 - "Your low-back pain is caused by an emotional issue with support/hope."
   (Cooley's explanatory framework is the weakest tier — offer only as a
   somatic-inquiry *question*, never as causation.)
-- "The Spiral Line explains your torsion," stated as established fact (limited
-  evidence only).
+- "The Spiral Line explains your torsion," stated as established fact (only
+  partially verified — 5 of 9 transitions in Wilke 2016).
 - Any newly authored claim about Sen lines, or any "scientific validation" of the
   lineage tradition.
 - "This proves JDM." (JDM is the investigative method/lens, not a proven
@@ -108,12 +111,13 @@ The fuller language bank — what to say *instead* of each — is in
 
 ## Bottom line for every answer
 
-Plant the Anatomy Trains flag on the **SBL because it is confirmed**, use the
-**SBL-vs-SFL contrast** to show the tool reports evidence honestly even against
-its own framework, treat the **TCM overlap as location-only**, hold the **Sen
-layer as respected tradition**, and frame **JDM as inquiry, not causation.** The
-win is the disciplined translation itself — converge / diverge / register — not a
-forced unification.
+Plant the Anatomy Trains flag on the **SBL because it is confirmed (3/3)**, use
+the **SBL-vs-SFL contrast** to show the tool reports evidence honestly even
+against its own framework, treat the **Spiral as usable-but-hedged (5/9)**, treat
+the **TCM overlap as location-only**, hold the **Sen layer as respected
+tradition**, and frame **JDM as inquiry, not causation.** The win is the
+disciplined translation itself — converge / diverge / register — not a forced
+unification.
 
 ---
 
@@ -122,6 +126,9 @@ forced unification.
 - **Wilke et al. 2016** — "What Is Evidence-Based About Myofascial Chains: A
   Systematic Review," *Arch Phys Med Rehabil* (PMID 26281953):
   https://pubmed.ncbi.nlm.nih.gov/26281953/
+  - Per-chain verdict: SBL strong (3/3 transitions, 14 studies); Back-Functional
+    strong (3/3, 8); Front-Functional strong (2/2, 6); **Spiral moderate-to-strong
+    for parts (5/9, 21)**; Lateral partial (2/5, 10); **SFL none (0 verified, 7)**.
 - **Anatomy Trains' own review of Wilke 2016** (strong evidence for SBL /
   Back-Functional / Front-Functional lines; SFL unsupported):
   https://www.anatomytrains.com/blog/2016/05/31/review-jan-wilkes-evidence-based-myofascial-chains-holly-clemens/

@@ -37,21 +37,27 @@ originates.
 This is plain biomechanics. State it as fact. No energy claim needed, and none
 made.
 
-## Map 2 — Anatomy Trains · **the SBL, Tier 1–2 (confirmed for this line)**
+## Map 2 — Anatomy Trains · **the SBL (Tier 1, confirmed) + the Spiral (Tier 2, partial)**
 
 That Short posterior line is the **Superficial Back Line (SBL)**: plantar fascia
 → calves / hamstrings → erector spinae → scalp. Mechanical force transmits along
 it, which is exactly why short hamstrings can express as low-back strain.
 
 **The flag, planted honestly:** the SBL is one of the lines Wilke et al. (2016)
-found *strong* evidence for. I can stand on it. → *Sampler card 03-SBL.*
+found *strong* evidence for — **all 3 transitions verified (14 studies)**. I can
+stand on it. → *Sampler card 03-SBL.*
 
-**The contrast, stated in the same breath:** in that same review, the
-**Superficial Front Line had no verified transitions**, and the **Spiral Line**
-only limited support. So if someone wants me to pin the low-back torsion on the
-Spiral Line, I'll name it as a *possible* cross-pattern with weak evidence — not
-as established fact. *Evidence isn't uniform even inside Anatomy Trains, and
-saying so is the proof I report it straight.*
+**The torsion line, used but hedged:** if the low back shows a cross-body torsion,
+that pattern lives on the **Spiral Line** — **Tier 2, partially confirmed**: Wilke
+2016 verified **5 of its 9 transitions (21 studies)**. So I *can* use it for the
+torsion pattern, but I hedge the ~4/9 unverified segments — I won't present the
+full helix as established.
+
+**The cautionary contrast, stated in the same breath:** in that same review the
+**Superficial Front Line had no verified transitions (0 of 9)** — the genuinely
+unsupported line, kept here only as the contrast. *Evidence isn't uniform even
+inside Anatomy Trains — SBL confirmed (3/3), Spiral partial (5/9), SFL unsupported
+(0) — and saying exactly that is the proof I report it straight.*
 
 ## Map 3 — TCM / meridian · **Bladder meridian, Tier 2 (location-correlation)**
 
@@ -109,8 +115,9 @@ at four different confidence levels:
 | Map | What it said | Tier |
 |---|---|---|
 | Joint anatomy | Short posterior chain loads the lumbar spine | **Tier 1** |
-| Anatomy Trains (SBL) | The SBL transmits that force; confirmed line | **Tier 1–2** |
-| Anatomy Trains (SFL/Spiral) | *Not* leaned on — unsupported / limited | **Tier 3** |
+| Anatomy Trains (SBL) | The SBL transmits that force; confirmed line (3/3) | **Tier 1** |
+| Anatomy Trains (Spiral) | Used for the torsion pattern, hedged (5/9 verified) | **Tier 2 — partial** |
+| Anatomy Trains (SFL) | *Not* in the slice — the unsupported cautionary contrast (0/9) | **Tier 3** |
 | Bladder meridian | Same corridor (location), different mechanism | **Tier 2** |
 | Bladder (Cooley) | Support/hope theme — a question, not a cause | **inquiry only** |
 | Sen Kalathari / back-leg lines | Named tradition; depth deferred to source | **tradition** |
@@ -129,8 +136,9 @@ several maps.
 The disciplined reading: **this is a convergence in *location*, not proof the maps
 are one system.** It's interesting that the traditions independently flag the same
 spot — and that's *all* it is until evidence says more. The Spiral Line's
-involvement here is limited-evidence (Tier 3); the meridian and Sen layers are
-tradition. I present the convergence, and I hold the ceiling at the weakest claim.
+involvement here is partially supported (Tier 2, 5/9 — I hedge the rest); the
+meridian and Sen layers are tradition. I present the convergence, and I hold the
+ceiling at the weakest claim.
 
 ---
 
