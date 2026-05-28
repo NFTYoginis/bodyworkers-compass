@@ -1,0 +1,17 @@
+# Worker-internal + gated artifacts — NEVER published.
+# Everything under an underscore prefix is operator-local only.
+_*
+
+# The gated multi-region atlas (private partner-tool content) lives here
+# locally so the tool works on the operator's machine; it is ABSENT from
+# the public repo by design. The PUBLIC repo ships only the low-back slice.
+_atlas/
+
+# Editor / OS cruft
+.DS_Store
+*.bak
+*.bak.html
+Thumbs.db
+
+# Anything explicitly marked gated
+*.GATED.*
