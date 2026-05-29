@@ -1,4 +1,4 @@
-# Cloudflare Worker — live no-signup surface for the Four-Map Body Researcher.
+# Cloudflare Worker — live no-signup surface for Bodyworker's Compass.
 # Fetches the instruction layer (identity/rules/examples/reference) from the PUBLIC
 # repo raw URLs as the system prompt, then proxies a single chat turn to the
 # Anthropic Messages API (Sonnet 4.6). The API key is NEVER committed — it is set

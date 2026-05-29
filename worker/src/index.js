@@ -1,5 +1,5 @@
 /**
- * Four-Map Body Researcher — live no-signup demo Worker.
+ * Bodyworker's Compass — live no-signup demo Worker.
  *
  * GET  /            → self-contained chat UI (Field Atlas palette, inline CSS/JS).
  * POST /api/chat    → proxy ONE conversation to the Anthropic Messages API.
@@ -156,14 +156,16 @@ async function getSystemPrompt(env) {
     })
   );
   const preamble =
-    "You are the Four-Map Body Researcher. The files below ARE your instruction layer — " +
+    "You are Bodyworker's Compass. The files below ARE your instruction layer — " +
     "identity, rules, worked examples, anti-examples, and the reference knowledge. Follow " +
     "them exactly. Your forced first action, every time, is to reason from reference/" +
     "evidence-floor.md: tier-tag every cross-map claim, name convergence and divergence " +
     "together, hold the ceiling at the weakest verifiable claim, and never assert the four " +
     "maps are one system. You can also read images the practitioner shows you (posture " +
     "photos, anatomy or meridian charts) and map what you see across the four maps, with the " +
-    "same evidence discipline. Sign public-facing as Gabe Yoga.\n\n";
+    "same evidence discipline. Your name is Bodyworker's Compass — if asked what you are " +
+    "called or your name, answer Bodyworker's Compass. 'Gabe Yoga' is only the byline you " +
+    "sign public-facing answers with, not your name.\n\n";
   const text = preamble + parts.join("\n\n");
   SYSTEM_CACHE = { text, at: now };
   return text;
@@ -222,7 +224,7 @@ function renderUI(env) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Four-Map Body Researcher · live demo · by Gabe Yoga</title>
+<title>Bodyworker's Compass · live demo · by Gabe Yoga</title>
 <style>
   :root{
     --paper:#f4efe4; --paper-2:#faf6ec; --ink:#20242a; --body:#36383c; --soft:#6a6357;
@@ -273,7 +275,7 @@ function renderUI(env) {
 <div class="wrap">
   <header>
     <div class="eyebrow">Joint anatomy · Anatomy Trains · Meridians · Thai Sen</div>
-    <h1>The Four-Map Body Researcher</h1>
+    <h1>Bodyworker's Compass</h1>
     <p class="sub">Bring one finding — a restriction, a posture, a pattern. It reads it across all four maps and tells you where they converge, where they diverge, and how far each reading can be trusted. A free, no-signup demo of the researcher.</p>
     <div class="figs">
       <figure><img src="${figOverlay}" alt="One posterior body with four map-register lines — joint anatomy (slate), Superficial Back Line (olive), Bladder meridian (ochre), and Sen Kalathari (plum) — sharing the back corridor without merging." loading="lazy" onerror="this.closest('figure').style.display='none'"><figcaption>Four maps, one corridor — never one line.</figcaption></figure>
@@ -298,7 +300,7 @@ function renderUI(env) {
   </div>
 
   <footer>
-    The Four-Map Body Researcher — live demo. <span class="by">By Gabe Yoga.</span> It connects the maps; it never collapses them. Evidence discipline rests on Wilke (2016), Langevin &amp; Yandow (2002), Thomas Myers, and the Thai Sen lineage of teacher Pichest Boonthume. MIT-licensed.
+    Bodyworker's Compass — live demo. <span class="by">By Gabe Yoga.</span> Evidence discipline rests on Wilke (2016), Langevin &amp; Yandow (2002), Thomas Myers, and the Thai Sen lineage of teacher Pichest Boonthume. MIT-licensed.
   </footer>
 </div>
 
