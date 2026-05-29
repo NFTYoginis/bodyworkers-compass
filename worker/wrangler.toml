@@ -16,11 +16,15 @@ PAGES_BASE = "https://nftyoginis.github.io/bodyworkers-compass"
 MODEL = "claude-sonnet-4-6"
 MAX_TOKENS = "1024"
 
-# LIVE-DEMO-PROBE guardrail: native per-IP rate limiting (open-beta binding).
-# 10 requests / 60s per client IP. If your Cloudflare account hasn't enabled this
-# binding, the Worker degrades to an in-isolate fallback limiter (see src/index.js).
-[[unsafe.bindings]]
+# LIVE-DEMO-PROBE guardrail: per-IP rate limiting via the first-class [[ratelimits]]
+# table. The older [[unsafe.bindings]] type="ratelimit" form deploys as inert "Unsafe
+# Metadata" and does NOT enforce — verified with a 16-request burst that saw zero 429s.
+# 10 requests / 60s per client IP. src/index.js still falls back to an in-isolate
+# limiter if the binding is ever absent.
+[[ratelimits]]
 name = "RATE_LIMITER"
-type = "ratelimit"
 namespace_id = "1001"
-simple = { limit = 10, period = 60 }
+
+[ratelimits.simple]
+limit = 10
+period = 60
