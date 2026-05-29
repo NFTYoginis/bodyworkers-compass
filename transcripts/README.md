@@ -1,6 +1,6 @@
-# Worked-output gallery — real runs of the researcher
+# Worked-output gallery — real runs of the guide
 
-Three real, unedited runs of the Four-Map Body Researcher on its three canonical
+Three real, unedited runs of Bodyworker's Compass on its three canonical
 exemplars. Each was produced by loading the build's own instruction layer (identity +
 rules + examples + anti-examples + the full `reference/` set) as the system prompt and
 asking one question — exactly what you get when you load the repo as a Claude Project or

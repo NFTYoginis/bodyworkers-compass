@@ -1,6 +1,6 @@
 # Evidence Floor — the honesty source (read first, every time)
 
-> This is the canonical evidence/register-discipline source for the researcher.
+> This is the canonical evidence/register-discipline source for the guide.
 > It is built from public, peer-reviewed research and publicly published
 > frameworks. Every claim the tool makes about the body is tier-tagged from this
 > file. **The weakest verifiable claim in any answer sets that answer's
@@ -8,7 +8,7 @@
 > the four maps are one system.
 
 The worked region throughout is **chronic low-back / posterior chain** — the one
-slice this public researcher carries at depth.
+slice this public guide carries at depth.
 
 ---
 

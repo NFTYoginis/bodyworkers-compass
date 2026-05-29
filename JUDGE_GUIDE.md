@@ -1,6 +1,6 @@
 # Judge guide — see the four-map reading in 5 minutes
 
-This is a cold, five-minute way to see what the Four-Map Body Researcher actually does.
+This is a cold, five-minute way to see what Bodyworker's Compass actually does.
 No setup knowledge needed. You'll paste three questions and watch it read one body
 finding across four different maps — joint anatomy, Anatomy Trains fascia, the TCM
 meridians, and the Thai Sen lines — naming where they line up, where they don't, and
@@ -22,7 +22,7 @@ until then, use option B.)*
 2. Add to the project knowledge: `identity.md`, `rules.md`, `examples.md`,
    `anti-examples.md`, and the whole `reference/` folder. *(Skip anything under `_atlas/` —
    that's the private layer.)*
-3. Custom instructions: *"You are the four-map body researcher defined in identity.md.
+3. Custom instructions: *"You are Bodyworker's Compass defined in identity.md.
    Follow rules.md exactly. Your forced first action, always: reason from
    reference/evidence-floor.md before answering anything about the body."*
 

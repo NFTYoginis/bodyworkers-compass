@@ -1,7 +1,6 @@
 # Live demo Worker — setup
 
-A Cloudflare Worker that serves a free, no-signup chat surface for the Four-Map Body
-Researcher. It loads the build's own instruction layer from the **public repo raw URLs**
+A Cloudflare Worker that serves a free, no-signup chat surface for Bodyworker's Compass. It loads the build's own instruction layer from the **public repo raw URLs**
 as the system prompt, then proxies one conversation to the Anthropic Messages API
 (Claude Sonnet 4.6). The API key lives only as a Worker secret — it is never committed.
 

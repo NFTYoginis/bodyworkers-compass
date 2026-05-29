@@ -1,4 +1,4 @@
-# The Four-Map Body Researcher
+# Bodyworker's Compass
 
 **Read one finding across every map of the body — at once.** Bring it a
 restriction, a posture in a photo, a meridian chart from the book you're studying.
@@ -24,7 +24,7 @@ read four maps without flattening them into one.
 ## What it does
 
 You bring **one finding** — a symptom, a restriction, a pattern on the table or
-the mat. The researcher:
+the mat. The guide:
 
 1. **Translates it across all four maps** using a shared, register-neutral
    vocabulary, so the finding stays *one* finding as it moves between systems.
@@ -71,7 +71,7 @@ The four refusal gates, with exact language, are in [`rules.md`](rules.md).
 
 ## See it run
 
-- **[`transcripts/`](transcripts/)** — three real, unedited runs of the researcher on
+- **[`transcripts/`](transcripts/)** — three real, unedited runs of the guide on
   its canonical questions (the worked-output gallery), captured on Claude Sonnet 4.6 and
   verified against the evidence floor.
 - **[`anti-examples.md`](anti-examples.md)** — strong vs. shallow cross-system reading,
@@ -95,12 +95,11 @@ The four refusal gates, with exact language, are in [`rules.md`](rules.md).
 1. **Create a new Claude Project** (claude.ai → Projects → New).
 2. **Add these files to the project knowledge:** `identity.md`, `rules.md`,
    `examples.md`, `anti-examples.md`, and the whole `reference/` folder.
-3. **Set the project's custom instructions** to: *"You are the four-map body
-   researcher defined in identity.md. Follow rules.md exactly. Your forced first
+3. **Set the project's custom instructions** to: *"You are Bodyworker's Compass defined in identity.md. Follow rules.md exactly. Your forced first
    action, always: read reference/evidence-floor.md before answering anything
    about the body."*
 4. **Do not add** anything under `_atlas/` — that's the gated/private layer and is
-   not part of the public researcher.
+   not part of the public guide.
 5. **First message** — try one of the first-run prompts below.
 
 ### First-run prompts
@@ -115,7 +114,7 @@ The four refusal gates, with exact language, are in [`rules.md`](rules.md).
 
 ## The cards and books (where the depth lives)
 
-This researcher is the free demonstration of the method. The full multi-region
+This guide is the free demonstration of the method. The full multi-region
 atlas, the lineage Sen teaching, and the clinical depth live in the products:
 
 - **Card decks** — the visual bridge across all three energy systems:

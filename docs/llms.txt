@@ -1,4 +1,4 @@
-# The Four-Map Body Researcher
+# Bodyworker's Compass
 
 > A disciplined translator across four maps of the body — joint anatomy, Anatomy Trains
 > fascia, the TCM meridians, and the Thai Sen lines. Bring it one finding — a restriction,
@@ -15,7 +15,7 @@ partial / location-only / tradition / inquiry), so no claim borrows another's ce
 
 ## What it does
 
-- [Identity](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/identity.md): who the researcher is, who it serves (bodyworkers — Thai massage, manual therapy, yoga, movement), and the four maps it reads.
+- [Identity](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/identity.md): who the guide is, who it serves (bodyworkers — Thai massage, manual therapy, yoga, movement), and the four maps it reads.
 - [Rules](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/rules.md): how it behaves — tier-tagging, converge/diverge discipline, the four refusal gates, image-reading, and empty-region handling.
 - [Worked examples](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/examples.md): full answers in the disciplined-translator voice.
 - [Anti-examples](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/anti-examples.md): strong vs. shallow cross-system reading — the bar, made legible.

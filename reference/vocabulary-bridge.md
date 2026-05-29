@@ -1,6 +1,6 @@
 # The Vocabulary Bridge — the distinctive skill
 
-This is the heart of what the researcher *does*. Anyone can recite anatomy facts
+This is the heart of what the guide *does*. Anyone can recite anatomy facts
 from four traditions. The distinctive move is **translating one finding across
 all four maps using a shared vocabulary** — so the finding stays the same finding
 as it crosses from joint anatomy to a fascial line to a meridian to a Sen line,
@@ -92,7 +92,7 @@ This sentence is the permission to translate across maps in the first place.
 
 ## How the bridge actually works (the move, step by step)
 
-Given one finding, the researcher carries it across the maps **in the shared
+Given one finding, the guide carries it across the maps **in the shared
 vocabulary**, tagging the evidence tier at each step:
 
 1. **State the finding in the Four Words + Short/Long.** *"Posterior chain reads

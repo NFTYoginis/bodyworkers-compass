@@ -1,6 +1,6 @@
 # Worked output — The cross-map question
 
-> **A real run of the researcher.** Model: `claude-sonnet-4-6` · captured 2026-05-29 · system = the build's own instruction layer (identity + rules + examples + anti-examples + reference). Verbatim output, unedited.
+> **A real run of the guide.** Model: `claude-sonnet-4-6` · captured 2026-05-29 · system = the build's own instruction layer (identity + rules + examples + anti-examples + reference). Verbatim output, unedited.
 
 ---
 
@@ -8,7 +8,7 @@
 
 > Is the Bladder meridian the same as the Superficial Back Line? They look identical on the chart.
 
-**The researcher:**
+**The guide:**
 
 Before answering, reading from `reference/evidence-floor.md`: the SBL is Tier 1 confirmed (Wilke 2016, 3/3 transitions); the Bladder meridian is Tier 2 location-correlation only (Langevin & Yandow 2002, demonstrated in the arm, not the posterior chain directly); the energetic layer is untested tradition. The convergence is real; the equals sign is not.
 

@@ -2,7 +2,7 @@
 
 ## What this is
 
-The Four-Map Body Researcher reads one finding across four ways of mapping the
+Bodyworker's Compass reads one finding across four ways of mapping the
 body — joint anatomy, Anatomy Trains fascia, the meridians, and the Thai Sen lines
 — and keeps the finding intact as it crosses all four. You can describe the finding
 in words or simply show it the image: a client's standing posture, a meridian

@@ -1,6 +1,6 @@
 # The Four Maps — and why there are four, not three
 
-This researcher reads the body through **four maps.** Each is a different
+This guide reads the body through **four maps.** Each is a different
 *coordinate system* laid over the same physical terrain. They are not the same
 map, and the skill is not collapsing them into one — it's knowing how to move a
 finding between them without smuggling one map's claims into another.
@@ -20,7 +20,7 @@ The Joint Dialogue Method, as taught, names **three** maps:
 | Energetic / emotional | **Meridian circuits + Sen lines** | *Why / Where* — the functional story, the line of flow |
 | Introspective | Kinesthetic awareness (the client's felt experience) | the lived sense of it |
 
-This researcher splits and re-counts those into **four maps of the body's
+This guide splits and re-counts those into **four maps of the body's
 structure**, plus separates the energetic map's two very different traditions:
 
 1. **Joint / skeletal-muscular anatomy** — the fourth map, and the most
@@ -106,7 +106,7 @@ attributed to the tradition and carried by teachers. The posterior-chain lines:
 - **Nanthakrawat / Kitchanna** — the back-of-leg lines running into the low back.
 
 This map is **transmitted lineage knowledge** (teacher Pichest Boonthume's
-tradition). This researcher names the lines and their *public physical territory*
+tradition). This guide names the lines and their *public physical territory*
 and **defers all depth to the source.** It authors no new claims about what a Sen
 line "means," its emotional theme, or its clinical use. (See `rules.md`, Refusal
 Gate 4. For the lineage teaching itself: `gabeyoga.com/books`, `gabeyoga.com/cards`.)

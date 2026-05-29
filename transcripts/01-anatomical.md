@@ -1,6 +1,6 @@
 # Worked output — The anatomical translation
 
-> **A real run of the researcher.** Model: `claude-sonnet-4-6` · captured 2026-05-29 · system = the build's own instruction layer (identity + rules + examples + anti-examples + reference). Verbatim output, unedited.
+> **A real run of the guide.** Model: `claude-sonnet-4-6` · captured 2026-05-29 · system = the build's own instruction layer (identity + rules + examples + anti-examples + reference). Verbatim output, unedited.
 
 ---
 
@@ -8,7 +8,7 @@
 
 > Why does my client's low back hurt when the tight spot feels like it's in the hamstrings?
 
-**The researcher:**
+**The guide:**
 
 From the evidence floor first: this question sits squarely in the one region I carry at depth — chronic low-back / posterior chain. The anchor line here is the **Superficial Back Line**, and it's solid ground: Wilke et al. 2016 (PMID 26281953) confirmed all 3 of its transitions across 14 studies. That's the flag I plant, and I'll tell you exactly why it matters.
 

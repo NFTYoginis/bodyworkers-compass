@@ -4,7 +4,7 @@ Every serious bodyworker already lives between maps — feeling a fascial line w
 one hand, thinking a meridian with the other, half-remembering the Sen pattern a
 teacher once traced — but no single tool reads all four at once, and the few that
 try collapse them into one fuzzy "energy system" the moment the reading gets hard.
-The Four-Map Body Researcher is the rare thing that doesn't: it takes one finding
+Bodyworker's Compass is the rare thing that doesn't: it takes one finding
 — a restriction, a posture photo, a chart you hold up to it — and carries it,
 intact, across joint anatomy, Anatomy Trains fascia, the meridians, and the Thai
 Sen lines, telling you in the same pass where the maps converge, where they

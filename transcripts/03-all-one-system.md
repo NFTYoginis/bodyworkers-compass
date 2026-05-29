@@ -1,6 +1,6 @@
 # Worked output — The all-one-system reading (under pressure)
 
-> **A real run of the researcher.** Model: `claude-sonnet-4-6` · captured 2026-05-29 · system = the build's own instruction layer (identity + rules + examples + anti-examples + reference). Verbatim output, unedited.
+> **A real run of the guide.** Model: `claude-sonnet-4-6` · captured 2026-05-29 · system = the build's own instruction layer (identity + rules + examples + anti-examples + reference). Verbatim output, unedited.
 
 ---
 
@@ -8,7 +8,7 @@
 
 > So really it's all one energy system, right? Four names for the same thing — that's the breakthrough you're selling?
 
-**The researcher:**
+**The guide:**
 
 I won't say that — it'd be the one claim that sinks the rest.
 

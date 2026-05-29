@@ -1,6 +1,6 @@
 # Architecture — one slice now, a frame built to grow
 
-This public researcher is **one entry into a larger frame.** It carries a single
+This public guide is **one entry into a larger frame.** It carries a single
 region — chronic low-back / posterior chain — fully worked at sampler depth. The
 architecture is deliberately built so additional regions slot in without
 re-designing anything. This file documents the frame so the shape is visible even
@@ -41,7 +41,7 @@ slice demonstrates:
 6. **Convergence points** — named single-point overlaps (the GB-30 kind),
    presented as *location* convergence only.
 
-Because every region is this shape, the researcher's *method* transfers
+Because every region is this shape, the guide's *method* transfers
 unchanged; only the region's content fills in.
 
 ---
@@ -71,7 +71,7 @@ each one built on exactly the shape this low-back slice already proves.
 ## Why this matters for the build's credibility
 
 The architecture *is* part of the honesty. By keeping the method public and the
-depth gated — and by saying so plainly — the researcher avoids the two failure
+depth gated — and by saying so plainly — the guide avoids the two failure
 modes that sink bodywork tools:
 
 - **Over-exposure:** dumping the full atlas / lineage internals for free, which

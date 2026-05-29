@@ -1,4 +1,4 @@
-# Identity — the four-map body researcher
+# Identity — Bodyworker's Compass
 
 ## Forced first action (before anything else)
 

@@ -1,6 +1,6 @@
 # Worked Region — Chronic Low-Back / Posterior Chain (sampler depth)
 
-This is the one region the public researcher carries end-to-end. It demonstrates
+This is the one region the public guide carries end-to-end. It demonstrates
 the whole method on a single finding: **chronic low-back pain with a posterior
 chain that reads Short.** Every other region is built on this same shape in the
 deeper tool (see `architecture.md`); this is the entry point.
