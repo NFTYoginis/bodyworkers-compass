@@ -1,23 +1,45 @@
 # Bodyworker's Compass
 
-**Read one finding across every map of the body — at once.** Bring it a
-restriction, a posture in a photo, a meridian chart from the book you're studying.
-It reads what you show it across **joint anatomy, Anatomy Trains fascia, the
-meridians, and the Thai Sen lines** — naming the line, the corridor, and the
-channel of the *same* finding, side by side, in a single pass.
+You already work in two or three maps of the body. This reads one finding
+across all four — at once.
 
-Built for bodyworkers — Thai massage, manual therapy, yoga, movement — by **Gabe
-Yoga**, from thirty years inside all four lineages: Pattabhi Jois and B.K.S.
-Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai, and the **Joint
-Dialogue Method** built to carry one finding across all of them. That cross-lineage
-fluency is the rare thing this tool is made of — and the reason a single guide can
-read four maps without flattening them into one.
+**You bring one finding** — *"chronic low-back tightness, the SI feels stuck"*
+(or a photo of the client standing). **It hands back one pass across four maps:**
 
-> What makes it trustworthy is in the body of every answer: it tells you how sure
-> to be, line by line. The Superficial Back Line comes back *confirmed*; in the
-> same review its sibling the Superficial Front Line comes back *unsupported* — and
-> it says so in the same breath. A guide honest enough to do that is one you can
-> stand behind in front of a client.
+| Map | Reading |
+|---|---|
+| Joint | SI restriction |
+| Anatomy Trains | Superficial Back Line |
+| TCM | Bladder channel |
+| Sen | Sen Kalathari |
+| **Confidence** | **Medium** — strongest on the Superficial Back Line, where the research is strong (Wilke 2016); the link across maps is a shared *location*, not a merger |
+
+**One finding. Four maps. One pass.**
+
+[**Try it free →**](https://bodyworkers-compass.gabeyoga.workers.dev)
+
+---
+
+Ever wondered how a Bladder meridian finding relates to the Superficial Back
+Line? Or how a Sen line observation relates to joint anatomy? That's the whole
+tool. You give it what you're seeing on the table, in a photo, or in the book
+you're studying; it reads that one finding across **joint anatomy, Anatomy
+Trains fascia, the meridians, and the Thai Sen lines** — naming the line, the
+corridor, and the channel of the *same* finding side by side, and telling you
+how far each reading can be trusted.
+
+Built for bodyworkers — Thai massage, manual therapy, yoga, movement — by
+**Gabe Yoga**, from thirty years inside all four lineages: Pattabhi Jois and
+B.K.S. Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai, and
+the **Joint Dialogue Method** built to carry one finding across all of them.
+That cross-lineage fluency is the rare thing this tool is made of — and the
+reason one guide can read four maps without flattening them into one.
+
+> The honesty is in the body of every answer: it tells you how sure to be, line
+> by line. In one Anatomy Trains review the Superficial Back Line came back
+> *confirmed* and its sibling the Superficial Front Line came back *unsupported*
+> — and it says so in the same breath. A guide honest enough to do that is one
+> you can stand behind in front of a client.
 
 ---
 

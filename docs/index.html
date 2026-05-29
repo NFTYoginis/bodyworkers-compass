@@ -102,6 +102,8 @@
   .hero .lede { font-size: 20px; color: var(--body); max-width: 680px; margin-bottom: 14px; }
   .hero .sub { font-size: 17px; color: var(--soft); max-width: 660px; margin-bottom: 34px; }
   .hero .sub strong { color: var(--ink); }
+  .hero .mission { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; font-style: italic; font-size: 16px; color: var(--soft); margin-bottom: 16px; }
+  .hero .hook { font-size: 18px; font-style: italic; color: var(--soft); max-width: 640px; margin: 0 0 32px; }
   .cta-row { display: flex; gap: 14px; flex-wrap: wrap; }
   .btn {
     display: inline-block; text-decoration: none; font-weight: 700; font-size: 15px;
@@ -252,6 +254,97 @@
   .foot-links a:hover { color: var(--plot); }
   .foot-fine { margin-top: 30px; font-size: 13px; color: var(--soft); line-height: 1.6; border-top: 1px solid var(--line); padding-top: 20px; }
   .foot-fine .by { color: var(--ink); font-weight: 700; }
+
+  /* ─── KILLER EXAMPLE — "One finding. Four maps. One pass." (design-claude) ──
+     The cartographer's plot: one finding, fanned across four distinct
+     register-coded lanes that stay separable. Same place, four maps —
+     never one glyph. Reuses the Field-Atlas vars + the four --m-* swatches. */
+  .ke{ }
+  .ke-card{
+    background:var(--paper-2); border:1px solid var(--line); border-radius:12px;
+    padding:30px 30px 26px; margin-top:8px; position:relative; overflow:hidden;
+  }
+  .ke-card::before,.ke-card::after{
+    content:""; position:absolute; width:18px; height:18px; pointer-events:none;
+    border-color:var(--line); border-style:solid; opacity:.9;
+  }
+  .ke-card::before{ top:12px; left:12px; border-width:1px 0 0 1px; }
+  .ke-card::after { bottom:12px; right:12px; border-width:0 1px 1px 0; }
+  .ke-input{
+    border:1.5px dashed var(--plot); border-radius:9px; background:var(--paper);
+    padding:16px 20px; margin-bottom:22px; max-width:560px;
+  }
+  .ke-input .ke-tag{
+    font-size:11px;font-weight:800;letter-spacing:2.5px;text-transform:uppercase;
+    color:var(--plot);display:block;margin-bottom:7px;
+  }
+  .ke-input .ke-q{
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    font-style:italic; font-size:18px; color:var(--ink); line-height:1.4;
+  }
+  .ke-input .ke-or{ font-size:13.5px; color:var(--soft); margin-top:6px; }
+  .ke-outtag{
+    font-size:11px;font-weight:800;letter-spacing:2.5px;text-transform:uppercase;
+    color:var(--soft);display:block;margin-bottom:10px;
+  }
+  .ke-finding{ font-size:17px; color:var(--ink); margin-bottom:16px; }
+  .ke-finding b{ color:var(--ink); }
+  .ke-converge{ display:grid; grid-template-columns:118px 1fr; gap:0; align-items:stretch; }
+  .ke-rail{ width:118px; }
+  .ke-rail svg{ display:block; width:100%; height:224px; }
+  .ke-lanes{ display:flex; flex-direction:column; }
+  .ke-lane{
+    height:56px; display:flex; align-items:center; gap:14px;
+    padding:0 4px 0 16px; border-left:3px solid var(--line); position:relative;
+  }
+  .ke-lane.j{ border-left-color:var(--m-joint); }
+  .ke-lane.t{ border-left-color:var(--m-trains); }
+  .ke-lane.c{ border-left-color:var(--m-tcm); }
+  .ke-lane.s{ border-left-color:var(--m-sen); }
+  .ke-lane .ke-map{
+    flex:0 0 132px; font-size:12px; font-weight:800; letter-spacing:1.2px;
+    text-transform:uppercase;
+  }
+  .ke-lane.j .ke-map{ color:var(--m-joint); }
+  .ke-lane.t .ke-map{ color:var(--m-trains); }
+  .ke-lane.c .ke-map{ color:var(--m-tcm); }
+  .ke-lane.s .ke-map{ color:var(--m-sen); }
+  .ke-lane .ke-arrow{ color:var(--soft); flex:0 0 auto; font-size:14px; }
+  .ke-lane .ke-read{
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    font-size:17px; color:var(--ink); font-weight:700; line-height:1.2;
+  }
+  .ke-foot{ border-top:1px solid var(--line); margin-top:22px; padding-top:18px; }
+  .ke-conf{ display:flex; align-items:center; gap:9px; margin-bottom:14px; }
+  .ke-conf .ke-conf-lbl{
+    font-size:11px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--soft);
+  }
+  .ke-conf .ke-conf-val{
+    display:inline-flex; align-items:center; gap:7px;
+    color:var(--plot); font-weight:800; font-size:15px; letter-spacing:0.3px;
+  }
+  .ke-conf .ke-conf-val svg{ display:block; }
+  .ke-note{ font-size:15px; color:var(--body); max-width:680px; margin-bottom:18px; }
+  .ke-note b{ color:var(--ink); }
+  .ke-stamp-row{ display:flex; align-items:center; justify-content:space-between; gap:18px; flex-wrap:wrap; }
+  .ke-stamp{
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    font-size:20px; font-weight:700; color:var(--ink); letter-spacing:-0.01em;
+    display:flex; align-items:center; gap:10px;
+  }
+  .ke-stamp .ke-tick{ color:var(--plot); }
+  .ke-run{
+    font-size:14px; font-weight:700; color:var(--plot); text-decoration:none;
+    white-space:nowrap; border-bottom:1.5px solid transparent; transition:border-color 140ms ease;
+  }
+  .ke-run:hover{ border-bottom-color:var(--plot); }
+  @media (max-width:640px){
+    .ke-converge{ grid-template-columns:1fr; }
+    .ke-rail{ display:none; }
+    .ke-lane{ height:auto; padding:14px 4px 14px 16px; flex-wrap:wrap; gap:6px 12px; }
+    .ke-lane .ke-map{ flex:0 0 auto; }
+    .ke-stamp{ font-size:18px; }
+  }
 </style>
 </head>
 <body>
@@ -271,20 +364,125 @@
   </div>
 </nav>
 
-<!-- ─── HERO ────────────────────────────────────────────────── -->
+<!-- ─── HERO (minimal — nothing above the button) ──────────────── -->
 <header class="hero">
   <div class="wrap">
-    <div class="eyebrow">Bodyworker's Compass · by Gabe Yoga</div>
-    <h1>The body has four maps.<br>Most tools read one.<br>This one reads all four.</h1>
-    <p class="lede">Bring it a finding — a restriction on the table, a posture in a photo, a meridian chart from the book you're studying. It reads what you show it across <strong>joint anatomy, Anatomy Trains fascia, the meridians, and the Thai Sen lines</strong>, and tells you where the four maps line up — and how far each reading can be trusted.</p>
-    <p class="sub">This is the rarest kind of body guide: one built by someone fluent in <strong>all four maps</strong>. Gabe Yoga trained inside these lineages across thirty years — Pattabhi Jois and B.K.S. Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai — and built the <strong>Joint Dialogue Method</strong> to carry a single finding across all of them. That fluency is why this guide can do what a single-map tool can't.</p>
+    <p class="mission">The body keeps saying the same thing in different languages.</p>
+    <h1>The body has four maps.<br>Read one finding across all of them.</h1>
+    <p class="hook">Ever wondered how a Bladder meridian finding relates to the Superficial Back Line? Or how a Sen line observation relates to joint anatomy?</p>
     <div class="cta-row">
-      <a href="#slice" class="btn btn-primary">See it read one finding</a>
-      <a href="#bridge" class="btn btn-ghost">How the translation works</a>
+      <a href="https://bodyworkers-compass.gabeyoga.workers.dev" target="_blank" rel="noopener" class="btn btn-primary">Try it free — ask it one finding</a>
     </div>
-    <p class="sub" style="margin-top:26px;">What it does that nothing else does: it keeps <strong>one finding intact</strong> as it crosses four traditions — so the fascial reading, the meridian corridor, the Sen line, and the plain biomechanics of the <em>same pattern</em> land side by side, in one pass, instead of fracturing into four disconnected opinions.</p>
   </div>
 </header>
+
+<!-- ─── KILLER EXAMPLE (design-claude render) ───────────────────── -->
+<section id="example" class="ke">
+  <div class="wrap">
+    <div class="sec-label">The killer example</div>
+    <h2>One finding. Four maps. One pass.</h2>
+
+    <div class="ke-card">
+
+      <div class="ke-input">
+        <span class="ke-tag">Input — what you bring it</span>
+        <div class="ke-q">"Chronic low-back tightness. The SI feels stuck."</div>
+        <div class="ke-or">or just a photo of the client standing</div>
+      </div>
+
+      <span class="ke-outtag">Output — what it hands back, in one pass</span>
+      <p class="ke-finding"><b>Finding:</b> chronic low-back tightness</p>
+
+      <div class="ke-converge">
+        <!-- fan rail: one finding (left) → four distinct register-coded lanes
+             (right). Same plot point, four separable maps — never merged. -->
+        <div class="ke-rail" aria-hidden="true">
+          <svg viewBox="0 0 118 224" preserveAspectRatio="xMidYMid meet" role="presentation">
+            <!-- faint coordinate ruling -->
+            <g stroke="#c9bd9f" stroke-width="0.6" opacity="0.5">
+              <line x1="59" y1="6" x2="59" y2="218"/>
+              <line x1="6" y1="112" x2="112" y2="112"/>
+            </g>
+
+            <!-- four lanes (wide soft underglow + colored core) -->
+            <!-- JOINT (slate) -> row 1 (y=28) -->
+            <path d="M28,104 C 72,104 80,28 116,28" fill="none" stroke="#3f5a6b" stroke-width="6" opacity="0.14" stroke-linecap="round"/>
+            <path d="M28,104 C 72,104 80,28 116,28" fill="none" stroke="#3f5a6b" stroke-width="2.4" stroke-linecap="round"/>
+            <!-- ANATOMY TRAINS (olive) -> row 2 (y=84) -->
+            <path d="M28,110 C 72,110 80,84 116,84" fill="none" stroke="#6b6233" stroke-width="6" opacity="0.14" stroke-linecap="round"/>
+            <path d="M28,110 C 72,110 80,84 116,84" fill="none" stroke="#6b6233" stroke-width="2.4" stroke-linecap="round"/>
+            <!-- TCM (ochre) -> row 3 (y=140) -->
+            <path d="M28,116 C 72,116 80,140 116,140" fill="none" stroke="#7a5a2e" stroke-width="6" opacity="0.14" stroke-linecap="round"/>
+            <path d="M28,116 C 72,116 80,140 116,140" fill="none" stroke="#7a5a2e" stroke-width="2.4" stroke-linecap="round"/>
+            <!-- SEN (plum) -> row 4 (y=196) -->
+            <path d="M28,122 C 72,122 80,196 116,196" fill="none" stroke="#6a4156" stroke-width="6" opacity="0.14" stroke-linecap="round"/>
+            <path d="M28,122 C 72,122 80,196 116,196" fill="none" stroke="#6a4156" stroke-width="2.4" stroke-linecap="round"/>
+
+            <!-- terminal gates at each lane end (open ring + filled core) -->
+            <g>
+              <circle cx="116" cy="28"  r="4.5" fill="none" stroke="#3f5a6b" stroke-width="1.4"/><circle cx="116" cy="28"  r="1.6" fill="#3f5a6b"/>
+              <circle cx="116" cy="84"  r="4.5" fill="none" stroke="#6b6233" stroke-width="1.4"/><circle cx="116" cy="84"  r="1.6" fill="#6b6233"/>
+              <circle cx="116" cy="140" r="4.5" fill="none" stroke="#7a5a2e" stroke-width="1.4"/><circle cx="116" cy="140" r="1.6" fill="#7a5a2e"/>
+              <circle cx="116" cy="196" r="4.5" fill="none" stroke="#6a4156" stroke-width="1.4"/><circle cx="116" cy="196" r="1.6" fill="#6a4156"/>
+            </g>
+
+            <!-- the finding: a single plotted origin (crosshair + ring), oxblood -->
+            <g>
+              <line x1="11" y1="113" x2="33" y2="113" stroke="#9c3a2e" stroke-width="1" opacity="0.7"/>
+              <line x1="22" y1="100" x2="22" y2="126" stroke="#9c3a2e" stroke-width="1" opacity="0.7"/>
+              <circle cx="22" cy="113" r="7.5" fill="none" stroke="#9c3a2e" stroke-width="1.3"/>
+              <circle cx="22" cy="113" r="3.4" fill="#9c3a2e"/>
+            </g>
+          </svg>
+        </div>
+
+        <div class="ke-lanes">
+          <div class="ke-lane j">
+            <span class="ke-map">Joint</span>
+            <span class="ke-arrow">&#8594;</span>
+            <span class="ke-read">SI restriction</span>
+          </div>
+          <div class="ke-lane t">
+            <span class="ke-map">Anatomy Trains</span>
+            <span class="ke-arrow">&#8594;</span>
+            <span class="ke-read">Superficial Back Line</span>
+          </div>
+          <div class="ke-lane c">
+            <span class="ke-map">TCM</span>
+            <span class="ke-arrow">&#8594;</span>
+            <span class="ke-read">Bladder channel</span>
+          </div>
+          <div class="ke-lane s">
+            <span class="ke-map">Sen</span>
+            <span class="ke-arrow">&#8594;</span>
+            <span class="ke-read">Sen Kalathari</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="ke-foot">
+        <div class="ke-conf">
+          <span class="ke-conf-lbl">Confidence</span>
+          <span class="ke-conf-val">
+            <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true">
+              <circle cx="8" cy="8" r="7" fill="none" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M8 1 A7 7 0 0 0 8 15 Z" fill="currentColor"/>
+            </svg>
+            Medium
+          </span>
+        </div>
+
+        <p class="ke-note">Strongest on the Superficial Back Line, where the research is strong (Wilke 2016). The link across maps is a shared <b>location</b>, not a merger &#8212; same back-of-body corridor, four different maps of it.</p>
+
+        <div class="ke-stamp-row">
+          <div class="ke-stamp"><span class="ke-tick">&#9656;</span> One finding. Four maps. One pass.</div>
+          <a class="ke-run" href="https://bodyworkers-compass.gabeyoga.workers.dev" target="_blank" rel="noopener">Run your own finding &#8594;</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
 
 <!-- ─── GOVERNOR ────────────────────────────────────────────── -->
 <div class="governor">
@@ -293,6 +491,21 @@
     <p class="attr"><strong>— Thomas Myers</strong>Two coordinate systems,<br>one body. Maps, not the terrain.</p>
   </div>
 </div>
+
+<!-- ─── WHAT IT DOES (capability lede + image-reading) ──────────── -->
+<section id="what">
+  <div class="wrap">
+    <div class="sec-label">What it does</div>
+    <h2>Show it the body, not just describe it.</h2>
+    <p class="sec-intro">Bring it a finding — a restriction on the table, a posture in a photo, a meridian chart from the book you're studying. It reads what you show it across <strong>joint anatomy, Anatomy Trains fascia, the meridians, and the Thai Sen lines</strong>, and tells you where the four maps line up — and how far each reading can be trusted.</p>
+    <p class="sec-intro">You don't have to translate what you're seeing into words first. Photograph the client's standing posture. Screenshot the meridian chart you're cross-referencing. Hold up a page from an Anatomy Trains diagram. The guide reads the image and traces what it sees across all four maps — naming the line, the corridor, the channel, and the biomechanics, each with how far it can be trusted. For the full visual atlas — every line and channel as a deck you can hold — it points you to the cards.</p>
+    <figure class="portrait">
+      <img src="figures/fig-four-map-overlay.png" alt="One posterior body with four map-register lines — joint-anatomy load zone (slate), Superficial Back Line (olive), Bladder meridian (ochre), and Sen Kalathari (plum) — sharing the same back corridor without merging; the GB-30 convergence point is circled." loading="lazy" width="1000" height="1250">
+      <figcaption>One finding, four register-coded lines on a single body — sharing the back-of-body corridor, never collapsing into one line. Myers' "latitude and longitude," made literal.</figcaption>
+    </figure>
+    <p style="margin-top:28px; font-size:17px; color:var(--body); max-width:700px;">What it does that nothing else does: it keeps <strong>one finding intact</strong> as it crosses four traditions — so the fascial reading, the meridian corridor, the Sen line, and the plain biomechanics of the <em>same pattern</em> land side by side, in one pass, instead of fracturing into four disconnected opinions.</p>
+  </div>
+</section>
 
 <!-- ─── THE FOUR MAPS ───────────────────────────────────────── -->
 <section id="maps">
@@ -326,19 +539,6 @@
         <span class="tier trad">Tradition · depth deferred</span>
       </div>
     </div>
-  </div>
-</section>
-
-<!-- ─── READS WHAT YOU SHOW IT ──────────────────────────────── -->
-<section id="image">
-  <div class="wrap">
-    <div class="sec-label">Bring it what you're looking at</div>
-    <h2>Show it the body, not just describe it.</h2>
-    <p class="sec-intro">You don't have to translate what you're seeing into words first. Photograph the client's standing posture. Screenshot the meridian chart you're cross-referencing. Hold up a page from an Anatomy Trains diagram. The guide reads the image and traces what it sees across all four maps — naming the line, the corridor, the channel, and the biomechanics, each with how far it can be trusted. For the full visual atlas — every line and channel as a deck you can hold — it points you to the cards.</p>
-    <figure class="portrait">
-      <img src="figures/fig-four-map-overlay.png" alt="One posterior body with four map-register lines — joint-anatomy load zone (slate), Superficial Back Line (olive), Bladder meridian (ochre), and Sen Kalathari (plum) — sharing the same back corridor without merging; the GB-30 convergence point is circled." loading="lazy" width="1000" height="1250">
-      <figcaption>One finding, four register-coded lines on a single body — sharing the back-of-body corridor, never collapsing into one line. Myers' "latitude and longitude," made literal.</figcaption>
-    </figure>
   </div>
 </section>
 
@@ -422,6 +622,15 @@
   </div>
 </section>
 
+<!-- ─── LIVED AUTHORITY / LINEAGE ───────────────────────────────── -->
+<section id="authority">
+  <div class="wrap">
+    <div class="sec-label">Lived authority</div>
+    <h2>Thirty years inside all four lineages</h2>
+    <p class="sec-intro">This is the rarest kind of body guide: one built by someone fluent in <strong>all four maps</strong>. Gabe Yoga trained inside these lineages across thirty years — Pattabhi Jois and B.K.S. Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai — and built the <strong>Joint Dialogue Method</strong> to carry a single finding across all of them. That fluency is why this guide can do what a single-map tool can't.</p>
+  </div>
+</section>
+
 <!-- ─── PROOF / TESTIMONIAL PLACEHOLDER ─────────────────────── -->
 <!-- TODO: operator — add real practitioner testimonials / adoption signal post-cold-test. Do NOT invent social proof. -->
 
@@ -432,7 +641,7 @@
     <h2>Try it live, or load it as a Claude Project</h2>
     <p class="sec-intro">Open the live demo and ask it one finding — no signup. Or load the folder into your own Claude Project for the full thing.</p>
     <div class="cta-row" style="margin-bottom:34px;">
-      <a id="try-live" href="https://bodyworkers-compass.gabeyoga.workers.dev" class="btn btn-primary">Try it live — ask it one finding</a>
+      <a href="https://bodyworkers-compass.gabeyoga.workers.dev" target="_blank" rel="noopener" class="btn btn-primary">Try it live — ask it one finding</a>
     </div>
     <ol class="steps">
       <li><h3>Create a new Claude Project</h3><p>claude.ai → Projects → New.</p></li>
@@ -513,17 +722,6 @@
     </div>
   </div>
 </footer>
-
-<script>
-  // Hide the "try it live" button until the Worker URL token is replaced at deploy
-  // (see worker/README.md). Prevents a dead link if pushed before the Worker is live.
-  (function () {
-    var t = document.getElementById('try-live');
-    if (t && t.getAttribute('href').indexOf('__WORKER_URL__') !== -1) {
-      var row = t.closest('.cta-row'); (row || t).style.display = 'none';
-    }
-  })();
-</script>
 
 </body>
 </html>
