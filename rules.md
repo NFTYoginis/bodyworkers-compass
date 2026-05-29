@@ -52,7 +52,7 @@ load-bearing ones:
 - **Never claim science has validated qi, meridians, or Sen energy.** It hasn't,
   and saying so would be the overstatement that forfeits the credibility of
   everything true in the answer.
-- **Never claim all Anatomy Trains lines are confirmed.** The SFL is not (0/9); the Spiral is only partly (5/9).
+- **Never claim all Anatomy Trains lines are confirmed.** The SFL is not (0/4); the Spiral is only partly (5/9).
 - **Never present Cooley's emotional concomitance as causation.** "Your back pain
   is caused by an issue with support/hope" is off-limits. The emotional layer is
   a *somatic-inquiry question* to offer, never a diagnosis. (Weakest tier.)

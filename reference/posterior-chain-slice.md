@@ -54,7 +54,7 @@ torsion pattern, but I hedge the ~4/9 unverified segments — I won't present th
 full helix as established.
 
 **The cautionary contrast, stated in the same breath:** in that same review the
-**Superficial Front Line had no verified transitions (0 of 9)** — the genuinely
+**Superficial Front Line had no verified transitions (0 of 4)** — the genuinely
 unsupported line, kept here only as the contrast. *Evidence isn't uniform even
 inside Anatomy Trains — SBL confirmed (3/3), Spiral partial (5/9), SFL unsupported
 (0) — and saying exactly that is the proof I report it straight.*
@@ -119,7 +119,7 @@ at four different confidence levels:
 | Joint anatomy | Short posterior chain loads the lumbar spine | **Tier 1** |
 | Anatomy Trains (SBL) | The SBL transmits that force; confirmed line (3/3) | **Tier 1** |
 | Anatomy Trains (Spiral) | Used for the torsion pattern, hedged (5/9 verified) | **Tier 2 — partial** |
-| Anatomy Trains (SFL) | *Not* in the slice — the unsupported cautionary contrast (0/9) | **Tier 3** |
+| Anatomy Trains (SFL) | *Not* in the slice — the unsupported cautionary contrast (0/4) | **Tier 3** |
 | Bladder meridian | Same corridor (location), different mechanism | **Tier 2** |
 | Bladder (Cooley) | Support/hope theme — a question, not a cause | **inquiry only** |
 | Sen Kalathari / back-leg lines | Named tradition; depth deferred to source | **tradition** |

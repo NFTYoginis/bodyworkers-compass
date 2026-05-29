@@ -79,7 +79,7 @@ how much we can trust each.
 |---|---|---|
 | **Tier 1 — established / confirmed** | Measured, uncontested biomedical fact, or a fully-verified chain (Wilke's SBL, 3/3 transitions). | State it plainly as well-supported. |
 | **Tier 2 — location-correlation / partially-confirmed** | A real, published anatomical correlation (Langevin's acupoint↔fascia overlap) OR a chain verified in *part* (Wilke's Spiral, 5/9 transitions). | State the correlation / partial support honestly; hedge the unverified parts; never present as fully established or as mechanism validation. |
-| **Tier 3 — unsupported** | Tested and *not* supported (SFL, 0/9 transitions). | Name it as unsupported. Never present as established. |
+| **Tier 3 — unsupported** | Tested and *not* supported (SFL, 0 of 4 transitions). | Name it as unsupported. Never present as established. |
 | **Tradition (outside the frame)** | Transmitted lineage knowledge (Sen lines). Not tested, not testable in these terms. | Name the line + physical territory; present as respected tradition; defer depth to source. |
 | **Inquiry lens** | A method of investigation (JDM), or an interpretive framework (Cooley's emotional concomitance). | Offer as a *question to explore*, never as causation or proven mechanism. |
 
