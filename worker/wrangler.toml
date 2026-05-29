@@ -11,8 +11,8 @@ compatibility_date = "2024-11-01"
 # Non-secret config. Override REPO_RAW here if the public repo is renamed at deploy
 # (buyer-outcome rename) so the Worker keeps reading the right instruction files.
 [vars]
-REPO_RAW = "https://raw.githubusercontent.com/NFTYoginis/four-map-anatomy-researcher/main"
-PAGES_BASE = "https://nftyoginis.github.io/four-map-anatomy-researcher"
+REPO_RAW = "https://raw.githubusercontent.com/NFTYoginis/bodyworkers-compass/main"
+PAGES_BASE = "https://nftyoginis.github.io/bodyworkers-compass"
 MODEL = "claude-sonnet-4-6"
 MAX_TOKENS = "1024"
 

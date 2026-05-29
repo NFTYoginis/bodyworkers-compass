@@ -15,16 +15,16 @@ partial / location-only / tradition / inquiry), so no claim borrows another's ce
 
 ## What it does
 
-- [Identity](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/identity.md): who the researcher is, who it serves (bodyworkers — Thai massage, manual therapy, yoga, movement), and the four maps it reads.
-- [Rules](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/rules.md): how it behaves — tier-tagging, converge/diverge discipline, the four refusal gates, image-reading, and empty-region handling.
-- [Worked examples](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/examples.md): full answers in the disciplined-translator voice.
-- [Anti-examples](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/anti-examples.md): strong vs. shallow cross-system reading — the bar, made legible.
+- [Identity](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/identity.md): who the researcher is, who it serves (bodyworkers — Thai massage, manual therapy, yoga, movement), and the four maps it reads.
+- [Rules](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/rules.md): how it behaves — tier-tagging, converge/diverge discipline, the four refusal gates, image-reading, and empty-region handling.
+- [Worked examples](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/examples.md): full answers in the disciplined-translator voice.
+- [Anti-examples](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/anti-examples.md): strong vs. shallow cross-system reading — the bar, made legible.
 
 ## How the readings hold (the evidence floor)
 
-- [Evidence floor](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/reference/evidence-floor.md): the honesty source — the tier of every claim. SBL confirmed (Wilke 2016, 3/3); Spiral partial (5/9); SFL unsupported (0/4); Langevin acupoint–fascia overlap is a location finding shown in the dissected arm, not validation of qi; Sen lines named as tradition, depth deferred.
-- [The four maps](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/reference/the-four-maps.md): what each map is, and Myers' "latitude and longitude" governor.
-- [The vocabulary bridge](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/reference/vocabulary-bridge.md): the Joint Dialogue Method vocabulary that carries one finding across maps.
+- [Evidence floor](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/reference/evidence-floor.md): the honesty source — the tier of every claim. SBL confirmed (Wilke 2016, 3/3); Spiral partial (5/9); SFL unsupported (0/4); Langevin acupoint–fascia overlap is a location finding shown in the dissected arm, not validation of qi; Sen lines named as tradition, depth deferred.
+- [The four maps](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/reference/the-four-maps.md): what each map is, and Myers' "latitude and longitude" governor.
+- [The vocabulary bridge](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/reference/vocabulary-bridge.md): the Joint Dialogue Method vocabulary that carries one finding across maps.
 
 ## Where the depth lives
 
@@ -33,5 +33,5 @@ partial / location-only / tradition / inquiry), so no claim borrows another's ce
 
 ## Optional
 
-- [Repository](https://github.com/NFTYoginis/four-map-anatomy-researcher): the full public folder, MIT-licensed, ready to load as a Claude Project.
-- [Setup](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/README.md): how to load it and the first-run prompts.
+- [Repository](https://github.com/NFTYoginis/bodyworkers-compass): the full public folder, MIT-licensed, ready to load as a Claude Project.
+- [Setup](https://github.com/NFTYoginis/bodyworkers-compass/blob/main/README.md): how to load it and the first-run prompts.

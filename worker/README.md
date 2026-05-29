@@ -22,7 +22,7 @@ as the system prompt, then proxies one conversation to the Anthropic Messages AP
 ## Steps
 
 ```bash
-cd builds/four-map-anatomy-researcher/worker
+cd builds/bodyworkers-compass/worker
 
 # 1. Authorize Cloudflare (THE one interactive step — opens a browser).
 npx wrangler login
