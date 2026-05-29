@@ -81,6 +81,15 @@ The four refusal gates, with exact language, are in [`rules.md`](rules.md).
 
 ---
 
+## The thinking behind it
+
+- **[`THESIS.md`](THESIS.md)** — why a four-map guide with a real evidence floor needs to
+  exist, and why this builder.
+- **[`WRITEUP.md`](WRITEUP.md)** — the full design rationale: the four-map architecture, the
+  vocabulary bridge, and the evidence layer as a trust feature.
+
+---
+
 ## Setup (load it as a Claude Project, ~10 minutes)
 
 1. **Create a new Claude Project** (claude.ai → Projects → New).
