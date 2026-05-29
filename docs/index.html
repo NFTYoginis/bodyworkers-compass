@@ -139,6 +139,13 @@
   figure.portrait img { max-width: 440px; margin-left: auto; margin-right: auto; }
   figcaption { font-size: 13px; color: var(--soft); margin-top: 12px; text-align: center; max-width: 620px; margin-left: auto; margin-right: auto; }
 
+  /* ─── DEMO VIDEO ─────────────────────────────────────────── */
+  .video-figure { margin: 8px 0 0; }
+  .video-figure video {
+    width: 100%; height: auto; aspect-ratio: 16 / 9; display: block;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--ink);
+  }
+
   /* ─── FOUR MAP CARDS ─────────────────────────────────────── */
   .maps { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
   @media (max-width: 720px) { .maps { grid-template-columns: 1fr; } }
@@ -257,6 +264,7 @@
       <a href="#maps">The four maps</a>
       <a href="#bridge">The bridge</a>
       <a href="#slice">Worked example</a>
+      <a href="#demo">Watch it work</a>
       <a href="#honesty">Why trust it</a>
       <a href="#cards" class="btn nav-cta">Get the cards</a>
     </div>
@@ -374,6 +382,21 @@
     <figure style="margin-top:28px;">
       <img src="figures/fig-low-back-four-systems.png" alt="Four panels reading one chronic-low-back finding across joint anatomy (Tier 1), Anatomy Trains / SBL (Tier 1, confirmed 3/3), the Bladder meridian (Tier 2, location only), and Thai Sen Kalathari (tradition, deferred)." loading="lazy" width="1200" height="1029">
       <figcaption>The one finding read across all four maps, each panel tagged with its evidence tier.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ─── WATCH IT WORK (landing demo) ────────────────────────── -->
+<section id="demo">
+  <div class="wrap">
+    <div class="sec-label">Watch it work</div>
+    <h2>The same finding, read across four maps — in about a minute</h2>
+    <p class="sec-intro">A short walkthrough of the guide carrying one finding across joint anatomy, the fascial lines, the meridians, and the Sen tradition — each reading tagged with how far it can be trusted.</p>
+    <figure class="video-figure">
+      <video controls playsinline preload="metadata" poster="demo-poster.png" width="1920" height="1080">
+        <source src="demo.mp4" type="video/mp4">
+        Your browser can't play embedded video — <a href="demo.mp4">download the walkthrough</a> instead.
+      </video>
     </figure>
   </div>
 </section>
