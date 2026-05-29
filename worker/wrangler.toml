@@ -4,7 +4,7 @@
 # Anthropic Messages API (Sonnet 4.6). The API key is NEVER committed — it is set
 # once with `wrangler secret put ANTHROPIC_API_KEY`. See README.md for setup.
 
-name = "four-map-researcher"
+name = "bodyworkers-compass"
 main = "src/index.js"
 compatibility_date = "2024-11-01"
 
@@ -22,5 +22,5 @@ MAX_TOKENS = "1024"
 [[unsafe.bindings]]
 name = "RATE_LIMITER"
 type = "ratelimit"
-namespace_id = "fourmap-demo-1001"
+namespace_id = "1001"
 simple = { limit = 10, period = 60 }
