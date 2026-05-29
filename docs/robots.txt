@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nftyoginis.github.io/four-map-anatomy-researcher/sitemap.xml

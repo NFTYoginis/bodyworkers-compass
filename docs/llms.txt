@@ -1,0 +1,37 @@
+# The Four-Map Body Researcher
+
+> A disciplined translator across four maps of the body — joint anatomy, Anatomy Trains
+> fascia, the TCM meridians, and the Thai Sen lines. Bring it one finding — a restriction,
+> a posture in a photo, a chart you hold up to it — and it reads what you show it across
+> all four maps at once, naming where they converge, where they diverge, and how far each
+> reading can be trusted. Built by Gabe Yoga from thirty years across all four lineages
+> and the Joint Dialogue Method. It connects the maps; it never collapses them.
+
+It is not a SaaS, an app, or a clinician. It is a folder of Markdown instruction files
+loaded into a Claude Project (or run from the live link), demonstrated on one region —
+chronic low-back / posterior chain — at sampler depth. The honesty layer is built into the
+body of every answer: each cross-map claim carries its evidence tier (established /
+partial / location-only / tradition / inquiry), so no claim borrows another's certainty.
+
+## What it does
+
+- [Identity](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/identity.md): who the researcher is, who it serves (bodyworkers — Thai massage, manual therapy, yoga, movement), and the four maps it reads.
+- [Rules](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/rules.md): how it behaves — tier-tagging, converge/diverge discipline, the four refusal gates, image-reading, and empty-region handling.
+- [Worked examples](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/examples.md): full answers in the disciplined-translator voice.
+- [Anti-examples](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/anti-examples.md): strong vs. shallow cross-system reading — the bar, made legible.
+
+## How the readings hold (the evidence floor)
+
+- [Evidence floor](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/reference/evidence-floor.md): the honesty source — the tier of every claim. SBL confirmed (Wilke 2016, 3/3); Spiral partial (5/9); SFL unsupported (0/4); Langevin acupoint–fascia overlap is a location finding shown in the dissected arm, not validation of qi; Sen lines named as tradition, depth deferred.
+- [The four maps](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/reference/the-four-maps.md): what each map is, and Myers' "latitude and longitude" governor.
+- [The vocabulary bridge](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/reference/vocabulary-bridge.md): the Joint Dialogue Method vocabulary that carries one finding across maps.
+
+## Where the depth lives
+
+- [The card decks](https://gabeyoga.com/cards): the visual atlas — every line and channel as a deck you can hold.
+- [The books](https://gabeyoga.com/books): the Joint Dialogue Method and the teaching library.
+
+## Optional
+
+- [Repository](https://github.com/NFTYoginis/four-map-anatomy-researcher): the full public folder, MIT-licensed, ready to load as a Claude Project.
+- [Setup](https://github.com/NFTYoginis/four-map-anatomy-researcher/blob/main/README.md): how to load it and the first-run prompts.

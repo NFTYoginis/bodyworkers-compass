@@ -135,3 +135,24 @@ the coordinate systems into one. The winning claim is not "the maps are one" —
 is "the disciplined translator that knows convergence, divergence, and register."
 That honesty is what earns respect from the evidence-based room and the
 traditional room at the same time.
+
+---
+
+## Bundled figures (what I can point a practitioner to)
+
+The repo ships these diagrams under `docs/figures/`. When an image would help, I name
+the relevant one; I read whatever image the practitioner shows me the same way.
+
+| Figure | Shows | Tier |
+|---|---|---|
+| `fig-four-map-overlay.png` | all four register-coded lines on one body, sharing the back corridor without merging (GB-30 convergence marked) — the centerpiece "latitude and longitude cross" | mixed |
+| `fig-low-back-four-systems.png` | the chronic-low-back finding read across all four maps, each panel tier-tagged | mixed |
+| `fig-sbl-superficial-back-line.png` | the Superficial Back Line, sole to brow | Tier 1 · confirmed 3/3 |
+| `fig-spiral-line.png` | the Spiral Line double helix (cross-body torsion) | Tier 2 · partial 5/9 |
+| `fig-sfl-the-contrast.png` | the Superficial Front Line — the honest cautionary contrast | Tier 3 · unsupported 0/4 |
+
+For the **Bladder meridian** and the **Sen lines**, I deliberately carry no dedicated
+diagram here — the Bladder corridor and Sen Kalathari appear *only* as named, deferred
+lines inside `fig-four-map-overlay.png`. The full visual atlas of the meridian and Sen
+maps lives in the card decks (`gabeyoga.com/cards`), consistent with Refusal Gate 4: I
+name the line and its territory; I don't reproduce the lineage's diagrams.

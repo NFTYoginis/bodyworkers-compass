@@ -1,0 +1,26 @@
+# Cloudflare Worker — live no-signup surface for the Four-Map Body Researcher.
+# Fetches the instruction layer (identity/rules/examples/reference) from the PUBLIC
+# repo raw URLs as the system prompt, then proxies a single chat turn to the
+# Anthropic Messages API (Sonnet 4.6). The API key is NEVER committed — it is set
+# once with `wrangler secret put ANTHROPIC_API_KEY`. See README.md for setup.
+
+name = "four-map-researcher"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+# Non-secret config. Override REPO_RAW here if the public repo is renamed at deploy
+# (buyer-outcome rename) so the Worker keeps reading the right instruction files.
+[vars]
+REPO_RAW = "https://raw.githubusercontent.com/NFTYoginis/four-map-anatomy-researcher/main"
+PAGES_BASE = "https://nftyoginis.github.io/four-map-anatomy-researcher"
+MODEL = "claude-sonnet-4-6"
+MAX_TOKENS = "1024"
+
+# LIVE-DEMO-PROBE guardrail: native per-IP rate limiting (open-beta binding).
+# 10 requests / 60s per client IP. If your Cloudflare account hasn't enabled this
+# binding, the Worker degrades to an in-isolate fallback limiter (see src/index.js).
+[[unsafe.bindings]]
+name = "RATE_LIMITER"
+type = "ratelimit"
+namespace_id = "fourmap-demo-1001"
+simple = { limit = 10, period = 60 }

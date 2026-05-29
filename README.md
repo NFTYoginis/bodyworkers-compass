@@ -1,17 +1,23 @@
 # The Four-Map Body Researcher
 
-**A disciplined translator across four maps of the body** — joint anatomy,
-Anatomy Trains, meridians, and Thai Sen lines. Give it one finding and it tells
-you where the maps **converge**, where they **diverge**, and **how much evidence
-stands behind each one.** It connects the maps. It never collapses them.
+**Read one finding across every map of the body — at once.** Bring it a
+restriction, a posture in a photo, a meridian chart from the book you're studying.
+It reads what you show it across **joint anatomy, Anatomy Trains fascia, the
+meridians, and the Thai Sen lines** — naming the line, the corridor, and the
+channel of the *same* finding, side by side, in a single pass.
 
-Built for bodyworkers — Thai massage, manual therapy, yoga, movement — by
-**Gabe Yoga.**
+Built for bodyworkers — Thai massage, manual therapy, yoga, movement — by **Gabe
+Yoga**, from thirty years inside all four lineages: Pattabhi Jois and B.K.S.
+Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai, and the **Joint
+Dialogue Method** built to carry one finding across all of them. That cross-lineage
+fluency is the rare thing this tool is made of — and the reason a single guide can
+read four maps without flattening them into one.
 
-> The winning idea isn't "the four maps are secretly one system." It's a tool
-> honest enough to tell you the Superficial Back Line is *confirmed* and its
-> sibling the Superficial Front Line *isn't* — in the same breath. That honesty is
-> the product.
+> What makes it trustworthy is in the body of every answer: it tells you how sure
+> to be, line by line. The Superficial Back Line comes back *confirmed*; in the
+> same review its sibling the Superficial Front Line comes back *unsupported* — and
+> it says so in the same breath. A guide honest enough to do that is one you can
+> stand behind in front of a client.
 
 ---
 
@@ -63,11 +69,23 @@ The four refusal gates, with exact language, are in [`rules.md`](rules.md).
 
 ---
 
+## See it run
+
+- **[`transcripts/`](transcripts/)** — three real, unedited runs of the researcher on
+  its canonical questions (the worked-output gallery), captured on Claude Sonnet 4.6 and
+  verified against the evidence floor.
+- **[`anti-examples.md`](anti-examples.md)** — strong vs. shallow cross-system reading,
+  side by side: the bar this tool is built to clear.
+- **[`JUDGE_GUIDE.md`](JUDGE_GUIDE.md)** — a cold five-minute script to evaluate it
+  yourself, by live link or as a Claude Project.
+
+---
+
 ## Setup (load it as a Claude Project, ~10 minutes)
 
 1. **Create a new Claude Project** (claude.ai → Projects → New).
 2. **Add these files to the project knowledge:** `identity.md`, `rules.md`,
-   `examples.md`, and the whole `reference/` folder.
+   `examples.md`, `anti-examples.md`, and the whole `reference/` folder.
 3. **Set the project's custom instructions** to: *"You are the four-map body
    researcher defined in identity.md. Follow rules.md exactly. Your forced first
    action, always: read reference/evidence-floor.md before answering anything
