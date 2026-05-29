@@ -85,8 +85,8 @@ meridian basically **is** the Superficial Back Line — yes?"*
 > the *location* overlap is genuine there and plausible along the back, though that
 > hasn't been directly shown. That's where I stop. The SBL is a mechanical-force map; the
 > Bladder meridian is a qi map from a different tradition with a different mechanism.
-> Same corridor, different map — overlap in *where*, never in *why*. Myers himself
-> refuses to merge the two: lines of latitude and longitude.
+> Same corridor, different map — overlap in *where*, not in *why*. Myers himself
+> keeps the two distinct: lines of latitude and longitude.
 
 ### ✗ Shallow — inflates a "where" into a "why"
 

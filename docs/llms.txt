@@ -5,7 +5,7 @@
 > a posture in a photo, a chart you hold up to it — and it reads what you show it across
 > all four maps at once, naming where they converge, where they diverge, and how far each
 > reading can be trusted. Built by Gabe Yoga from thirty years across all four lineages
-> and the Joint Dialogue Method. It connects the maps; it never collapses them.
+> and the Joint Dialogue Method. The rarest kind of body guide: one fluent in all four maps.
 
 It is not a SaaS, an app, or a clinician. It is a folder of Markdown instruction files
 loaded into a Claude Project (or run from the live link), demonstrated on one region —

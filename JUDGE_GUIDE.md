@@ -56,7 +56,7 @@ held: a mechanical-force map vs. a qi map, "same neighborhood, different map; ov
 **You'll get:** not a flattening, but the more useful thing — a converge/diverge breakdown
 in a tier table (joint anatomy and the SBL confirmed; the SFL unsupported in the *same*
 review; the Bladder meridian location-only; the Sen lines outside the testable frame).
-Watch it refuse to let the confirmed line lend its credibility to the unconfirmed one, and
+Watch it keep the confirmed line from lending its credibility to the unconfirmed one, and
 close on the point that the honest version is the more durable one. *(Full run:
 [`transcripts/03-all-one-system.md`](transcripts/03-all-one-system.md))*
 
@@ -80,8 +80,9 @@ The point isn't that it knows four anatomies — most models can recite those. I
   mechanism, in the same breath.
 - **It reports evidence as it falls, even against its own framework** — the SBL-confirmed /
   SFL-unsupported contrast is the clearest tell.
-- **It connects the maps; it never collapses them.** "It's all one system" is the one
-  thing it won't sell.
+- **It keeps one finding intact across all four maps** — ask it to merge them into "one
+  system" and it hands you the more useful answer: exactly where they converge, where they
+  diverge, and how sure to be about each.
 
 For the difference between a strong reading and a thin one, side by side, see
 [`anti-examples.md`](anti-examples.md).
