@@ -8,8 +8,8 @@ raw source **and** the choice it produced.
 
 ## 1 · The raw source
 
-In 2005, while I was studying with Pichest Boonthumme in Northern Thailand, I was shown
-the same thing over and over: low-back discomfort was rarely treated at the site of the pain
+Across fifteen years studying with Pichest Boonthumme in Northern Thailand — beginning in
+2005 — I was shown the same thing over and over: low-back discomfort was rarely treated at the site of the pain
 itself. The sessions moved through the legs, the hips, the surrounding tissue first — the
 attention went to how tension *traveled* through the body, not to where the symptom showed up.
 The Sen lines were the map for that exploration. But the emphasis was never on the named line.
