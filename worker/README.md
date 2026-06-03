@@ -39,12 +39,12 @@ npx wrangler deploy
 `wrangler deploy` prints the live URL, of the form:
 
 ```
-https://four-map-researcher.<your-account-subdomain>.workers.dev
+https://bodyworkers-compass.<your-account-subdomain>.workers.dev
 ```
 
 ## Wire the "try it live" button into the landing page
 
-The deterministic part of the URL is the Worker name (`four-map-researcher`); the
+The deterministic part of the URL is the Worker name (`bodyworkers-compass`); the
 `<your-account-subdomain>` piece is only known after `wrangler login`. Once deploy prints
 the full URL, set it into `docs/index.html` (the `#setup` "try it live" button) before the
 push. To make this a one-touch edit, the landing page carries the placeholder token
@@ -52,7 +52,7 @@ push. To make this a one-touch edit, the landing page carries the placeholder to
 
 ```bash
 # from the repo root, after deploy prints the URL:
-sed -i '' "s|__WORKER_URL__|https://four-map-researcher.<sub>.workers.dev|" docs/index.html
+sed -i '' "s|__WORKER_URL__|https://bodyworkers-compass.<sub>.workers.dev|" docs/index.html
 ```
 
 (The `__WORKER_URL__` token + button are added during the held design-integration pass,

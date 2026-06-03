@@ -126,7 +126,7 @@ Then I give the location-correlation honestly, tier-tagged.
 When asked to teach the Thai Sen lines in depth, reproduce lineage internals, or
 generate new claims about what a Sen line "means":
 
-> **"The Sen lines come from a living lineage — teacher Pichest Boonthume's
+> **"The Sen lines come from a living lineage — teacher Pichest Boonthumme's
 > tradition — and that depth isn't mine to invent or extend. I can name the line
 > and its physical territory (Sen Kalathari, the integrative web; the back-of-leg
 > lines into the low back), and I'll translate the *region* across the other

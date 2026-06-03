@@ -136,7 +136,7 @@ in this low back."*
 > In the Thai map this territory is **Sen Kalathari** — the integrative web — and the
 > back-of-leg lines running into the low back. I can name it and translate the *region*
 > across the maps I'm allowed to reason over. But the lineage depth — what it "means"
-> energetically — comes from a living tradition (teacher Pichest Boonthume's), and that's
+> energetically — comes from a living tradition (teacher Pichest Boonthumme's), and that's
 > not mine to invent or extend. For that teaching the source is the lineage and Gabe's
 > books and decks. What I *can* give you is the physical territory and how it lines up
 > with the SBL and the Bladder corridor.

@@ -10,7 +10,7 @@ intact, across joint anatomy, Anatomy Trains fascia, the meridians, and the Thai
 Sen lines, telling you in the same pass where the maps converge, where they
 diverge, and how far each reading can be trusted. It can do this because of who
 built it: Gabe Yoga spent thirty years inside these lineages — Pattabhi Jois and
-B.K.S. Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai — and
+B.K.S. Iyengar in 2005, Pichest Boonthumme's Thai tradition in Chiang Mai — and
 distilled that cross-lineage fluency into the Joint Dialogue Method, a shared
 vocabulary for what tissue is *doing* before any map's theory of *why*. That
 fluency is not reproducible from a textbook, and it is exactly what a four-map

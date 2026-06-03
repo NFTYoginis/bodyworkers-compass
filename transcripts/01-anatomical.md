@@ -56,7 +56,7 @@ There's also a somatic-inquiry layer (Bob Cooley's framework reads the Bladder l
 
 ## Map 4 — Thai Sen lines · Tradition (deferred)
 
-In the Thai map, this posterior-chain territory runs through **Sen Kalathari** (the integrative web) and the back-of-leg lines into the low back. That's transmitted lineage knowledge from teacher Pichest Boonthume's tradition — I name the lines and their physical territory, and I defer the depth to the source. For the lineage teaching: **gabeyoga.com/cards** and **gabeyoga.com/books**.
+In the Thai map, this posterior-chain territory runs through **Sen Kalathari** (the integrative web) and the back-of-leg lines into the low back. That's transmitted lineage knowledge from teacher Pichest Boonthumme's tradition — I name the lines and their physical territory, and I defer the depth to the source. For the lineage teaching: **gabeyoga.com/cards** and **gabeyoga.com/books**.
 
 ---
 

@@ -88,7 +88,7 @@ In the Thai map, this territory is:
 - **Nanthakrawat / Kitchanna** — the back-of-leg lines running from the soles up
   into the low back.
 
-This is **transmitted lineage knowledge** (teacher Pichest Boonthume's tradition).
+This is **transmitted lineage knowledge** (teacher Pichest Boonthumme's tradition).
 I name the lines and their physical territory — and I defer the depth to the
 source. I do **not** author what the Sen "means," its clinical use, or its
 internal teaching. For that: the lineage, and `gabeyoga.com/books` /

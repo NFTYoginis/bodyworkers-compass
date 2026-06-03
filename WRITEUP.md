@@ -22,7 +22,7 @@ already moving between all of them — and getting no help holding them together
 rare move is not collecting four vocabularies; it is carrying a *single* finding
 across all four without smuggling one map's claims into another. That move takes
 someone who has actually worked inside the lineages. Gabe Yoga trained under
-Pattabhi Jois and B.K.S. Iyengar in 2005, studied Pichest Boonthume's Thai tradition
+Pattabhi Jois and B.K.S. Iyengar in 2005, studied Pichest Boonthumme's Thai tradition
 in Chiang Mai, and spent three decades synthesizing the fascial and meridian maps
 into the Joint Dialogue Method. The guide is the externalization of that fluency —
 which is why it can read four maps at once and a single-map tool can't.

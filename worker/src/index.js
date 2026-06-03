@@ -300,7 +300,7 @@ function renderUI(env) {
   </div>
 
   <footer>
-    Bodyworker's Compass — live demo. <span class="by">By Gabe Yoga.</span> Evidence discipline rests on Wilke (2016), Langevin &amp; Yandow (2002), Thomas Myers, and the Thai Sen lineage of teacher Pichest Boonthume. MIT-licensed.
+    Bodyworker's Compass — live demo. <span class="by">By Gabe Yoga.</span> Evidence discipline rests on Wilke (2016), Langevin &amp; Yandow (2002), Thomas Myers, and the Thai Sen lineage of teacher Pichest Boonthumme. MIT-licensed.
   </footer>
 </div>
 

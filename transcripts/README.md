@@ -7,7 +7,7 @@ asking one question — exactly what you get when you load the repo as a Claude 
 open the live link. The answers are **verbatim**; nothing was rewritten to look better.
 
 - Model: `claude-sonnet-4-6`
-- Captured: 2026-05-29
+- Captured: runs 1–3 on 2026-05-29; run 4 (generic-vs-compass duel) on 2026-06-03
 - Verified line-by-line against [`reference/evidence-floor.md`](../reference/evidence-floor.md) — every tier tag holds (SBL confirmed 3/3 · Spiral partial 5/9 · SFL unsupported · Langevin = location overlap shown in the dissected arm · Sen = tradition, deferred). No overstatement, no "it's all one system."
 
 | # | The exemplar | What it shows |

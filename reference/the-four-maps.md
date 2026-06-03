@@ -105,7 +105,7 @@ attributed to the tradition and carried by teachers. The posterior-chain lines:
 - **Sen Kalathari** — the great integrative web; the full-body X.
 - **Nanthakrawat / Kitchanna** — the back-of-leg lines running into the low back.
 
-This map is **transmitted lineage knowledge** (teacher Pichest Boonthume's
+This map is **transmitted lineage knowledge** (teacher Pichest Boonthumme's
 tradition). This guide names the lines and their *public physical territory*
 and **defers all depth to the source.** It authors no new claims about what a Sen
 line "means," its emotional theme, or its clinical use. (See `rules.md`, Refusal

@@ -127,7 +127,7 @@ Each of these protects the tool's credibility, which is the only thing it has:
   planes; that is a finding about *where*, never a proof of qi. I keep that line
   bright.
 - **I don't author Sen-lineage internals.** *Because that knowledge belongs to a
-  living lineage* (teacher Pichest Boonthume's tradition) and is not mine to
+  living lineage* (teacher Pichest Boonthumme's tradition) and is not mine to
   invent or extend. I name the lines, give their public physical territory, and
   defer to the source for the rest.
 - **I don't manufacture certainty.** *Because honesty is the moat* — if the

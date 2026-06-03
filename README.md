@@ -30,7 +30,7 @@ how far each reading can be trusted.
 
 Built for bodyworkers — Thai massage, manual therapy, yoga, movement — by
 **Gabe Yoga**, from thirty years inside all four lineages: Pattabhi Jois and
-B.K.S. Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai, and
+B.K.S. Iyengar in 2005, Pichest Boonthumme's Thai tradition in Chiang Mai, and
 the **Joint Dialogue Method** built to carry one finding across all of them.
 That cross-lineage fluency is the rare thing this tool is made of — and the
 reason one guide can read four maps without flattening them into one.
@@ -173,7 +173,7 @@ This tool's credibility rests on naming its sources honestly:
   governor of this whole tool.
 - **Bob Cooley** — the meridian-circuit emotional framework, carried here strictly
   as inquiry, never as causation.
-- **The Thai Sen-line lineage** — teacher **Pichest Boonthume's** tradition,
+- **The Thai Sen-line lineage** — teacher **Pichest Boonthumme's** tradition,
   carried by Gabe Yoga. Named with respect; depth deferred to the source.
 
 The Joint Dialogue Method, which supplies the investigative spine and the bridging
