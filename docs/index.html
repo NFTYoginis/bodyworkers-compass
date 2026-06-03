@@ -345,6 +345,68 @@
     .ke-lane .ke-map{ flex:0 0 auto; }
     .ke-stamp{ font-size:18px; }
   }
+
+  /* ─── THE DUEL — "Same question. Two AIs." ──────────────────────────
+     Proof-of-delta: the SAME question, same model, put to a generic model
+     and to Compass. Both real runs. Both refuse the easy "yes" — only one
+     carries the evidence floor. Reuses Field-Atlas vars; no new ones. */
+  .duel-q{
+    border:1.5px dashed var(--plot); border-radius:9px; background:var(--paper-2);
+    padding:18px 22px; margin-bottom:26px; max-width:780px;
+  }
+  .duel-q .duel-q-label{
+    font-size:11px; font-weight:800; letter-spacing:2.5px; text-transform:uppercase;
+    color:var(--plot); display:block; margin-bottom:8px;
+  }
+  .duel-q p{
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    font-style:italic; font-size:18px; color:var(--ink); line-height:1.45; margin:0;
+  }
+  .duel-grid{ display:grid; grid-template-columns:1fr 1fr; gap:18px; align-items:stretch; }
+  @media (max-width:760px){ .duel-grid{ grid-template-columns:1fr; } }
+  .duel-col{
+    border:1px solid var(--line); border-radius:11px; padding:24px 24px 22px;
+    position:relative; display:flex; flex-direction:column;
+  }
+  .duel-col.generic{ background:var(--paper); }
+  .duel-col.compass{ background:var(--paper-2); border-color:#cdbf9f; }
+  .duel-col.compass::before{
+    content:""; position:absolute; left:0; top:0; bottom:0; width:4px;
+    background:var(--plot); border-radius:11px 0 0 11px;
+  }
+  .duel-head{ display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:4px; }
+  .duel-tag-who{
+    font-family:"Iowan Old Style",Palatino,Georgia,serif; font-weight:700;
+    font-size:19px; color:var(--ink);
+  }
+  .duel-tag-sub{ font-size:13px; color:var(--soft); font-weight:600; }
+  .duel-verdict{ font-size:15.5px; color:var(--body); font-style:italic; margin:6px 0 16px; }
+  .duel-col.compass .duel-verdict{ color:var(--ink); }
+  .duel-points{ list-style:none; margin:0; padding:0; }
+  .duel-points li{
+    position:relative; padding:9px 0 9px 28px; font-size:14.5px; color:var(--body);
+    border-top:1px solid var(--line); line-height:1.5;
+  }
+  .duel-points li:first-child{ border-top:none; }
+  .duel-points li b{ color:var(--ink); }
+  .duel-points li::before{
+    position:absolute; left:0; top:9px; font-weight:800; font-size:14px; line-height:1.5;
+  }
+  .duel-points li.ok::before  { content:"\2713"; color:var(--soft); }      /* ✓ shared caution */
+  .duel-points li.good::before{ content:"\2713"; color:#3d6b41; }          /* ✓ compass win   */
+  .duel-points li.bad::before { content:"\2715"; color:var(--plot); }      /* ✗ red flaw      */
+  .duel-points li.warn::before{ content:"\25B3"; color:var(--m-tcm); }     /* △ amber flaw    */
+  .duel-points li.meh::before { content:"\25CB"; color:var(--soft); }      /* ○ grey flaw     */
+  .duel-legend{ display:flex; gap:18px 24px; flex-wrap:wrap; margin:22px 0 0; }
+  .duel-legend span{ font-size:12.5px; color:var(--soft); display:inline-flex; align-items:center; gap:7px; }
+  .duel-legend b{ font-weight:800; }
+  .duel-legend .lg-red{ color:var(--plot); }
+  .duel-legend .lg-amber{ color:var(--m-tcm); }
+  .duel-legend .lg-grey{ color:var(--soft); }
+  .duel-foot{ margin-top:22px; font-size:14.5px; color:var(--soft); max-width:820px; }
+  .duel-foot code{ background:var(--paper-2); border:1px solid var(--line); border-radius:4px; padding:1px 6px; font-size:13px; }
+  .duel-foot a{ color:var(--plot); font-weight:700; text-decoration:none; border-bottom:1.5px solid transparent; transition:border-color 140ms ease; white-space:nowrap; }
+  .duel-foot a:hover{ border-bottom-color:var(--plot); }
 </style>
 </head>
 <body>
@@ -354,6 +416,7 @@
   <div class="nav-inner">
     <div class="brand">Bodyworker's Compass <span class="tick">+</span></div>
     <div class="nav-links">
+      <a href="#duel">vs. a generic AI</a>
       <a href="#maps">The four maps</a>
       <a href="#bridge">The bridge</a>
       <a href="#slice">Worked example</a>
@@ -375,6 +438,57 @@
     </div>
   </div>
 </header>
+
+<!-- ─── THE DUEL — proof-of-delta vs a generic model ────────────── -->
+<section id="duel">
+  <div class="wrap">
+    <div class="sec-label">Same question. Two AIs.</div>
+    <h2>Ask a generic model — or ask one with an evidence floor.</h2>
+    <p class="sec-intro">The fastest way to see what this is: put the same question to a plain AI and to Compass. <strong>Both refuse the easy "yes."</strong> Only one shows its work — names the studies, tiers each claim, and holds the lineage as lineage. Both columns below are real, unedited runs of <code style="background:var(--paper-2);border:1px solid var(--line);border-radius:4px;padding:1px 6px;font-size:14px;">claude-sonnet-4-6</code>; the only difference is the instruction layer.</p>
+
+    <div class="duel-q">
+      <span class="duel-q-label">The question — put to both, cold</span>
+      <p>"The Superficial Back Line, the Bladder meridian, and the Thai Sen lines all run down the back of the body in roughly the same place. So really it's all one energy system, right? Four names for the same thing?"</p>
+    </div>
+
+    <div class="duel-grid">
+      <div class="duel-col generic">
+        <div class="duel-head">
+          <span class="duel-tag-who">A generic model</span>
+          <span class="duel-tag-sub">no instructions</span>
+        </div>
+        <p class="duel-verdict">Sensibly cautious — and that's where it stops.</p>
+        <ul class="duel-points">
+          <li class="ok">Refuses the easy "yes"; separates <em>location</em> from <em>mechanism</em>. A fair, careful answer.</li>
+          <li class="bad"><b>No evidence floor.</b> Names zero studies and zero tiers. It can't tell you that the Superficial Back Line is confirmed while the Front Line is <em>un</em>supported — in the same review.</li>
+          <li class="warn"><b>Flattens the tradition.</b> Buckets the Sen lines as "much less" evidence — quietly demoting transmitted lineage knowledge to failed science.</li>
+          <li class="meh"><b>Hands it back to you.</b> Ends on <em>"what would it take to demonstrate…"</em> — a seminar prompt, not a reading you can use on the table.</li>
+        </ul>
+      </div>
+      <div class="duel-col compass">
+        <div class="duel-head">
+          <span class="duel-tag-who">Bodyworker's Compass</span>
+          <span class="duel-tag-sub">same model + the instruction layer</span>
+        </div>
+        <p class="duel-verdict">Same caution — and then it shows its work.</p>
+        <ul class="duel-points">
+          <li class="ok">Refuses the merge out loud: <em>"I won't say that — it'd be the one claim that sinks the rest."</em></li>
+          <li class="good"><b>An evidence floor.</b> Wilke 2016 (SBL confirmed 3/3) <em>vs.</em> the SFL (0 transitions, same review); Langevin &amp; Yandow 2002 — every claim carries its study and its tier.</li>
+          <li class="good"><b>Holds the tradition.</b> The Sen lines are named "outside the testable frame," respected and deferred to the source — not graded as weak science.</li>
+          <li class="good"><b>A usable reading.</b> Converge <em>and</em> diverge in one tier table. You leave with a map, not a question.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="duel-legend">
+      <span><b class="lg-red">&#10005;</b> guessed — no source named</span>
+      <span><b class="lg-amber">&#9651;</b> flattens what it should distinguish</span>
+      <span><b class="lg-grey">&#9675;</b> true of anyone — no usable answer</span>
+    </div>
+
+    <p class="duel-foot">Both runs are real and unedited — same model, same question; the only variable is the instruction layer. <a href="https://github.com/NFTYoginis/bodyworkers-compass/blob/main/transcripts/04-generic-vs-compass.md" target="_blank" rel="noopener">Read the full side-by-side &#8594;</a></p>
+  </div>
+</section>
 
 <!-- ─── KILLER EXAMPLE (design-claude render) ───────────────────── -->
 <section id="example" class="ke">
@@ -628,6 +742,11 @@
     <div class="sec-label">Lived authority</div>
     <h2>Thirty years inside all four lineages</h2>
     <p class="sec-intro">This is the rarest kind of body guide: one built by someone fluent in <strong>all four maps</strong>. Gabe Yoga trained inside these lineages across thirty years — Pattabhi Jois and B.K.S. Iyengar in 2005, Pichest Boonthume's Thai tradition in Chiang Mai — and built the <strong>Joint Dialogue Method</strong> to carry a single finding across all of them. That fluency is why this guide can do what a single-map tool can't.</p>
+    <!-- TODO: operator (W6 ENHANCE Note 2) — once lineage-slice.md is filled with ONE real
+         Sen-lineage slice + the design decision it drove, surface it HERE: a short verbatim
+         pull-quote from the raw source + one line on the decision it forced, linking to the
+         GitHub blob of lineage-slice.md. This turns "trust my bio" into "read the lived source."
+         Do NOT invent lineage content; this stays a comment until the operator fills the slice. -->
   </div>
 </section>
 

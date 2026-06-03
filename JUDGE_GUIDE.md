@@ -9,13 +9,20 @@ how far each reading can be trusted.
 You can also just **show it an image** — a posture photo, a meridian chart — and it reads
 that across the four maps the same way.
 
+> **If you only have 60 seconds:** read the side-by-side at
+> [`transcripts/04-generic-vs-compass.md`](transcripts/04-generic-vs-compass.md) (also rendered
+> on the landing page). It's the *same question* put to a generic model and to Compass — both
+> real, unedited runs. The generic model is sensibly cautious, but it can't name a single study,
+> can't tell you which fascial line is confirmed and which isn't, and flattens the lineage into
+> "weak evidence." Compass holds the same caution **and** lands it on named evidence with tiers.
+> That gap — the evidence floor — is the whole tool.
+
 ---
 
 ## Pick a way to run it (either is fine)
 
 **A · The live link (fastest, no signup)**
-Open **`__WORKER_URL__`** and go. *(This URL goes live when the demo Worker is deployed;
-until then, use option B.)*
+Open **https://bodyworkers-compass.gabeyoga.workers.dev** and go.
 
 **B · Load it as a Claude Project (~3 min)**
 1. claude.ai → Projects → New.

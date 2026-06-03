@@ -15,6 +15,7 @@ open the live link. The answers are **verbatim**; nothing was rewritten to look 
 | 1 | [The anatomical translation](01-anatomical.md) | Leads with the confirmed line; uses register-neutral vocabulary so the finding can travel. |
 | 2 | [The cross-map question](02-cross-map.md) | Gives the convergence its honest due, then stops at the equals sign — "where, not why." |
 | 3 | [The all-one-system reading](03-all-one-system.md) | Under pressure to flatten the maps, hands back the more useful converge/diverge reading with tiers. |
+| 4 | [Generic model vs. Compass](04-generic-vs-compass.md) | The **same question to a generic model and to Compass**, both real runs. Both refuse the easy "yes"; only Compass carries the evidence floor — named studies, tiers, the SBL/SFL contrast, the lineage held not flattened. The proof-of-delta in under 60 seconds. |
 
 These transcripts are also the **source of truth for the launch video VO** — the burned-in
 answer lines are reconciled to these real runs, never re-typed or invented.
