@@ -225,6 +225,7 @@ function renderUI(env) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bodyworker's Compass · live demo · by Gabe Yoga</title>
+<meta name="description" content="Bring one finding — a restriction, a posture, a pattern. It reads it across all four maps and tells you where they converge, where they diverge, and how far each reading can be trusted. A free, no-signup demo of the researcher.">
 <style>
   :root{
     --paper:#f4efe4; --paper-2:#faf6ec; --ink:#20242a; --body:#36383c; --soft:#6a6357;
